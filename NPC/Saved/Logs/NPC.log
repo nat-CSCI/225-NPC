@@ -949,3 +949,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.29-18.56.07:762][577]LogRenderer: Reallocating scene render targets to support 896x464 Format 10 NumSamples 1 (Frame:6245).
 [2021.09.29-18.56.09:640][618]LogRenderer: Reallocating scene render targets to support 896x480 Format 10 NumSamples 1 (Frame:6293).
 [2021.09.29-18.56.56:109][674]LogSlate: Window 'Source Control Login' being destroyed
+[2021.09.29-18.57.24:132][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.09.29-18.57.24:178][796]LogSavePackage: Moving '../../../../../../Users/natdy/OneDrive/Desktop/NPC/225-NPC/NPC/Saved/ThirdPersonExampleMap1AFC6CB84956DFFCDAE21A836FEEC698.tmp' to '../../../../../../Users/natdy/OneDrive/Desktop/NPC/225-NPC/NPC/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.09.29-18.57.24:799][796]LogSavePackage: Moving '../../../../../../Users/natdy/OneDrive/Desktop/NPC/225-NPC/NPC/Saved/ThirdPersonExampleMap_BuiltData502130A34D24DD07CAB433810A0A4807.tmp' to '../../../../../../Users/natdy/OneDrive/Desktop/NPC/225-NPC/NPC/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.09.29-18.57.24:809][796]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.29-18.57.24:811][796]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.09.29-18.57.24:811][796]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
