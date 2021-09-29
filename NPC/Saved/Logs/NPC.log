@@ -933,3 +933,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.29-18.40.48:647][602]LogActorFactory: Actor Factory created SM_Chair
 [2021.09.29-18.42.43:269][482]LogSlate: Took 0.003734 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
 [2021.09.29-18.45.14:564][861]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock)
+[2021.09.29-18.49.42:898][906]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2021.09.29-18.49.43:017][906]LogSavePackage: Moving '../../../../../../Users/natdy/OneDrive/Desktop/NPC/225-NPC/NPC/Saved/ThirdPersonExampleMap_Auto10BF37BA4448AB63DE0193499FC6B4AB9.tmp' to '../../../../../../Users/natdy/OneDrive/Desktop/NPC/225-NPC/NPC/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2021.09.29-18.49.43:033][906]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.174
+[2021.09.29-18.49.43:033][906]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.174
+[2021.09.29-18.53.51:750][218]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
