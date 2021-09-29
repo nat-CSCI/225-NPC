@@ -938,3 +938,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.29-18.49.43:033][906]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.174
 [2021.09.29-18.49.43:033][906]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.174
 [2021.09.29-18.53.51:750][218]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.29-18.55.56:280][260]LogRenderer: Reallocating scene render targets to support 636x464 Format 10 NumSamples 1 (Frame:6057).
+[2021.09.29-18.55.56:462][261]LogRenderer: Reallocating scene render targets to support 668x464 Format 10 NumSamples 1 (Frame:6059).
+[2021.09.29-18.55.56:675][262]LogRenderer: Reallocating scene render targets to support 708x464 Format 10 NumSamples 1 (Frame:6061).
+[2021.09.29-18.56.01:920][430]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.29-18.56.02:697][450]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock)
+[2021.09.29-18.56.07:291][574]LogRenderer: Reallocating scene render targets to support 712x464 Format 10 NumSamples 1 (Frame:6239).
+[2021.09.29-18.56.07:397][575]LogRenderer: Reallocating scene render targets to support 800x464 Format 10 NumSamples 1 (Frame:6241).
+[2021.09.29-18.56.07:506][576]LogRenderer: Reallocating scene render targets to support 892x464 Format 10 NumSamples 1 (Frame:6243).
+[2021.09.29-18.56.07:762][577]LogRenderer: Reallocating scene render targets to support 896x464 Format 10 NumSamples 1 (Frame:6245).
+[2021.09.29-18.56.09:640][618]LogRenderer: Reallocating scene render targets to support 896x480 Format 10 NumSamples 1 (Frame:6293).
+[2021.09.29-18.56.56:109][674]LogSlate: Window 'Source Control Login' being destroyed
