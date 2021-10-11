@@ -1052,3 +1052,22 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.11-20.16.28:004][790]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/natdy/OneDrive/Desktop/NPC/225-NPC'
 [2021.10.11-20.16.28:004][790]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/natdy/OneDrive/Desktop/NPC/225-NPC'
 [2021.10.11-20.16.28:004][790]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/natdy/OneDrive/Desktop/NPC/225-NPC'
+[2021.10.11-20.16.41:693][790]LogSlate: Window 'Save Content' being destroyed
+[2021.10.11-20.16.41:873][790]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/AI/NPC_BB" FILE="../../../../../../Users/natdy/OneDrive/Desktop/NPC/225-NPC/NPC/Content/ThirdPersonBP/AI/NPC_BB.uasset" SILENT=true
+[2021.10.11-20.16.41:889][790]LogSavePackage: Moving '../../../../../../Users/natdy/OneDrive/Desktop/NPC/225-NPC/NPC/Saved/NPC_BBBE6F62C34C6D1DD46E4E8DB40C086A44.tmp' to '../../../../../../Users/natdy/OneDrive/Desktop/NPC/225-NPC/NPC/Content/ThirdPersonBP/AI/NPC_BB.uasset'
+[2021.10.11-20.16.50:876][790]LogSlate: Window 'Submit Files' being destroyed
+[2021.10.11-20.16.51:409][790]SourceControl: Error: Updated 0 paths from the index
+[2021.10.11-20.16.51:723][790]SourceControl: On branch main
+[2021.10.11-20.16.51:723][790]SourceControl: Your branch is ahead of 'origin/main' by 1 commit.
+[2021.10.11-20.16.51:723][790]SourceControl:   (use "git push" to publish your local commits)
+[2021.10.11-20.16.51:723][790]SourceControl: Changes not staged for commit:
+[2021.10.11-20.16.51:723][790]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2021.10.11-20.16.51:723][790]SourceControl:   (use "git restore <file>..." to discard changes in working directory)
+[2021.10.11-20.16.51:723][790]SourceControl: 	modified:   NPC/Content/ThirdPersonBP/AI/NPC_BB.uasset
+[2021.10.11-20.16.51:723][790]SourceControl: 	modified:   NPC/Saved/Logs/NPC.log
+[2021.10.11-20.16.51:723][790]SourceControl: Untracked files:
+[2021.10.11-20.16.51:723][790]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2021.10.11-20.16.51:723][790]SourceControl: 	NPC/Saved/Logs/Git-TempEB371EF449156E164F3BB69A9772A142.txt
+[2021.10.11-20.16.51:723][790]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2021.10.11-20.16.51:769][791]AssetCheck: New page: Asset Save: NPC_BB
+[2021.10.11-20.16.51:769][791]LogContentValidation: Display: Validating BlackboardData /Game/ThirdPersonBP/AI/NPC_BB.NPC_BB
