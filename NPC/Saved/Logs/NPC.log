@@ -942,3 +942,409 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.22-18.10.56:177][866]LogAudioMixer: Display: 0: FrontLeft
 [2021.10.22-18.10.56:177][866]LogAudioMixer: Display: 1: FrontRight
 [2021.10.22-18.11.08:831][362]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.22-18.12.02:983][631]LogSlate: Took 0.022185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.10.22-18.12.04:348][635]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.22-18.12.04:908][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh)
+[2021.10.22-18.12.06:151][704]LogRenderer: Reallocating scene render targets to support 1064x488 Format 10 NumSamples 1 (Frame:2498).
+[2021.10.22-18.12.07:190][726]LogEditorViewport: Clicking on Actor (LMB): NPC_Character_C (NPC_Character)
+[2021.10.22-18.12.44:425][719]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.22-18.13.32:634][943]LogRenderer: Reallocating scene render targets to support 1300x604 Format 10 NumSamples 1 (Frame:4907).
+[2021.10.22-18.13.55:976][534]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-18.13.55:989][534]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-18.13.55:990][534]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 22, 2021, 8:13:55 AM)
+[2021.10.22-18.13.55:996][534]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.10.22-18.13.55:999][534]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.10.22-18.13.56:001][534]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.10.22-18.13.56:024][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022454s)
+[2021.10.22-18.13.56:025][534]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.10.22-18.13.56:027][534]LogPlayLevel: PIE: World Init took: (0.002970s)
+[2021.10.22-18.13.56:027][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.026386s)
+[2021.10.22-18.13.56:039][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.10.22-18.13.56:042][534]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.10.22-18.13.56:042][534]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-18.13.56:042][534]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-18.13.56:042][534]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-18.13.56:042][534]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-18.13.56:042][534]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-18.13.56:042][534]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-18.13.56:042][534]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-18.13.56:042][534]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-18.13.56:042][534]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.22-18.13.56:042][534]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.22-18.13.56:042][534]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.22-18.13.56:042][534]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-18.13.56:047][534]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-18.13.56:047][534]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-18.13.56:054][534]LogAudioMixer: Display: Using Audio Device SAMSUNG (Intel(R) Display Audio)
+[2021.10.22-18.13.56:054][534]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-18.13.56:054][534]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-18.13.56:054][534]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-18.13.56:055][534]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-18.13.56:055][534]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.22-18.13.56:055][534]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.22-18.13.56:056][534]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.22-18.13.56:056][534]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.22-18.13.56:056][534]LogInit: FAudioDevice initialized.
+[2021.10.22-18.13.56:056][534]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2021.10.22-18.13.56:071][534]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.22-18.13.56:082][534]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.10.22-13.13.56
+[2021.10.22-18.13.56:106][534]LogWorld: Bringing up level for play took: 0.026653
+[2021.10.22-18.13.56:108][534]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2021.10.22-18.13.56:125][534]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.10.22-18.13.56:128][534]PIE: Server logged in
+[2021.10.22-18.13.56:131][534]PIE: Play in editor total start time 0.148 seconds.
+[2021.10.22-18.14.00:741][676]LogScript: Warning: Script Msg: NPC_controller_C_0 Start NPC Timer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.10.22-18.14.13:216][ 63]LogScript: Warning: Script Msg: NPC_controller_C_0 Start NPC Timer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.10.22-18.14.16:430][163]LogScript: Warning: Script Msg: NPC_controller_C_0 Start NPC Timer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.10.22-18.14.24:726][425]LogScript: Warning: Script Msg: NPC_controller_C_0 Start NPC Timer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.10.22-18.14.24:792][427]Set new viewmode: Unlit
+[2021.10.22-18.14.29:365][754]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/ThirdPersonBP/AI/NPC_BT.NPC_BT
+[2021.10.22-18.14.29:565][754]LogSlate: Took 0.002454 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.10.22-18.14.37:773][104]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/AI/BTTask_Patrol.BTTask_Patrol
+[2021.10.22-18.14.38:705][104]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0019 seconds. Added 126 classes and 0 folders.
+[2021.10.22-18.14.46:888][551]LogScript: Warning: Script Msg: NPC_controller_C_0 Start NPC Timer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.10.22-18.15.13:215][856]LogScript: Warning: Script Msg: NPC_controller_C_0 Start NPC Timer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.10.22-18.15.22:280][883]LogScript: Warning: Script Msg: NPC_controller_C_0 Start NPC Timer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.10.22-18.15.25:656][893]LogScript: Warning: Script Msg: NPC_controller_C_0 Start NPC Timer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.10.22-18.15.36:368][925]LogScript: Warning: Script Msg: NPC_controller_C_0 Start NPC Timer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.10.22-18.15.48:444][961]LogScript: Warning: Script Msg: NPC_controller_C_0 Start NPC Timer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.10.22-18.15.55:806][983]LogScript: Warning: Script Msg: NPC_controller_C_0 Start NPC Timer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.10.22-18.16.04:830][ 10]LogScript: Warning: Script Msg: NPC_controller_C_0 Start NPC Timer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.10.22-18.16.11:199][ 29]LogScript: Warning: Script Msg: NPC_controller_C_0 Start NPC Timer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.10.22-18.16.14:013][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-18.16.14:014][ 39]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.10.22-18.16.14:023][ 39]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-18.16.14:028][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-18.16.14:045][ 39]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-18.16.14:073][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-18.16.14:102][ 39]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.22-18.16.14:107][ 39]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-18.16.14:109][ 39]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-18.16.14:117][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-18.16.14:152][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2021.10.22-18.16.14:200][ 40]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.10.22-18.17.04:638][838]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2021.10.22-18.18.18:927][919]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh)
+[2021.10.22-18.18.29:969][185]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2021.10.22-18.21.33:049][200]LogTexture: Display: Building textures: Texture2D_3 (G8, 128X128)
+[2021.10.22-18.22.00:380][124]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.10.22-18.22.00:390][124]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9F4859990FF619B1342A5BDE6D9417EEB61B7186), compiling. Is special engine material.
+[2021.10.22-18.22.00:620][124]LogShaderCompilers: Display: Submitted 110 shader compile jobs with 'High' priority
+[2021.10.22-18.22.00:829][124]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 110
+[2021.10.22-18.22.00:829][124]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 100
+[2021.10.22-18.22.00:829][124]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 90
+[2021.10.22-18.22.00:829][124]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 80
+[2021.10.22-18.22.00:829][124]LogShaderCompilers: Display: Started 40 'Local' shader compile jobs with 'High' priority
+[2021.10.22-18.22.04:534][124]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 70
+[2021.10.22-18.22.04:534][124]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2021.10.22-18.22.04:786][124]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 60
+[2021.10.22-18.22.04:786][124]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2021.10.22-18.22.04:995][124]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 50
+[2021.10.22-18.22.04:995][124]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2021.10.22-18.22.05:622][124]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 40
+[2021.10.22-18.22.05:622][124]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2021.10.22-18.22.07:081][124]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 30
+[2021.10.22-18.22.07:081][124]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'High' priority
+[2021.10.22-18.22.08:334][124]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2021.10.22-18.22.08:334][124]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'High' priority
+[2021.10.22-18.22.08:455][124]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2021.10.22-18.22.08:455][124]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'High' priority
+[2021.10.22-18.22.08:751][124]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2021.10.22-18.22.08:751][124]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'High' priority
+[2021.10.22-18.22.09:570][124]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.10.22-18.22.09:570][124]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'High' priority
+[2021.10.22-18.22.09:581][124]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.10.22-18.22.09:581][124]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'High' priority
+[2021.10.22-18.22.09:788][124]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.10.22-18.22.09:788][124]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'High' priority
+[2021.10.22-18.22.10:205][124]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.10.22-18.22.10:205][124]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'High' priority
+[2021.10.22-18.22.10:413][124]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.10.22-18.22.10:413][124]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'High' priority
+[2021.10.22-18.22.10:708][124]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.10.22-18.22.10:708][124]LogShaderCompilers: Display: Total job queries 110, among them cache hits 0 (0.00%)
+[2021.10.22-18.22.10:708][124]LogShaderCompilers: Display: Tracking 110 distinct input hashes that result in 61 distinct outputs (55.45%)
+[2021.10.22-18.22.10:708][124]LogShaderCompilers: Display: RAM used: 0.30 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.07%
+[2021.10.22-18.22.10:708][124]LogShaderCompilers: Display: ================================================
+[2021.10.22-18.22.45:506][ 21]Cmd: TRANSACTION UNDO
+[2021.10.22-18.22.45:507][ 21]LogEditorTransaction: Undo Landscape Editing: Hydraulic Erosion
+[2021.10.22-18.22.45:597][ 21]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.10.22-18.22.45:888][ 24]Cmd: TRANSACTION UNDO
+[2021.10.22-18.22.45:888][ 24]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2021.10.22-18.22.45:907][ 24]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.10.22-18.22.46:046][ 25]Cmd: TRANSACTION UNDO
+[2021.10.22-18.22.46:046][ 25]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2021.10.22-18.22.46:067][ 25]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.10.22-18.22.46:193][ 26]Cmd: TRANSACTION UNDO
+[2021.10.22-18.22.46:193][ 26]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.10.22-18.22.46:230][ 26]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.10.22-18.22.46:525][ 35]Cmd: TRANSACTION UNDO
+[2021.10.22-18.22.46:525][ 35]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.10.22-18.22.46:704][ 39]Cmd: TRANSACTION UNDO
+[2021.10.22-18.22.46:704][ 39]LogEditorTransaction: Undo Creating New Landscape
+[2021.10.22-18.22.46:957][ 40]Cmd: TRANSACTION UNDO
+[2021.10.22-18.22.46:957][ 40]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.22-18.23.01:657][572]LogMaterial: Display: Missing cached shadermap for M_Bush in PCD3D_SM5, Default, SM5 (DDC key hash: F4477383CF68736DF369DB38B2555A16AC452252), compiling. 
+[2021.10.22-18.23.01:721][572]LogShaderCompilers: Display: Submitted 51 shader compile jobs with 'Low' priority
+[2021.10.22-18.23.01:737][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 51
+[2021.10.22-18.23.01:737][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 41
+[2021.10.22-18.23.01:737][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 31
+[2021.10.22-18.23.01:737][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2021.10.22-18.23.01:737][573]LogShaderCompilers: Display: Started 40 'Local' shader compile jobs with 'Low' priority
+[2021.10.22-18.23.08:006][675]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.10.22-18.23.08:015][675]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 3F27D013329798AB47089E575BA151636576926E), compiling. 
+[2021.10.22-18.23.08:399][675]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2021.10.22-18.23.08:410][675]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.10.22-18.23.08:592][675]LogShaderCompilers: Display: Submitted 103 shader compile jobs with 'Normal' priority
+[2021.10.22-18.23.13:247][764]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.10.22-18.23.13:247][764]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.10.22-18.23.13:851][765]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.10.22-18.23.13:851][765]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.10.22-18.23.14:102][766]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.10.22-18.23.14:102][766]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.10.22-18.23.14:541][768]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.10.22-18.23.14:541][768]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.10.22-18.23.14:720][769]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.10.22-18.23.14:720][769]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.10.22-18.23.14:979][770]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 109
+[2021.10.22-18.23.14:979][770]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.10.22-18.23.15:572][777]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 99
+[2021.10.22-18.23.15:572][777]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 89
+[2021.10.22-18.23.15:572][777]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Normal' priority
+[2021.10.22-18.23.16:035][779]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 79
+[2021.10.22-18.23.16:035][779]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.10.22-18.23.21:442][817]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 69
+[2021.10.22-18.23.21:442][817]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.10.22-18.23.21:794][818]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 59
+[2021.10.22-18.23.21:794][818]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.10.22-18.23.22:282][821]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 49
+[2021.10.22-18.23.22:282][821]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.10.22-18.23.22:925][824]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 39
+[2021.10.22-18.23.22:925][824]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.10.22-18.23.28:494][855]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 29
+[2021.10.22-18.23.28:494][855]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2021.10.22-18.23.28:608][855]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2021.10.22-18.23.28:608][855]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2021.10.22-18.23.28:905][857]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2021.10.22-18.23.28:905][857]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2021.10.22-18.23.28:932][857]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.10.22-18.23.28:932][857]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.10.22-18.23.30:621][871]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.10.22-18.23.30:621][871]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.10.22-18.23.32:207][878]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.10.22-18.23.32:207][878]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.10.22-18.23.32:357][878]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.10.22-18.23.32:357][878]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.10.22-18.23.33:035][882]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.10.22-18.23.33:035][882]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.10.22-18.23.33:156][882]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.10.22-18.23.33:156][882]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.10.22-18.24.00:915][507]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2021.10.22-18.24.00:920][507]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2021.10.22-18.24.00:922][507]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2021.10.22-18.24.00:928][507]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2021.10.22-18.24.00:930][507]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2021.10.22-18.24.00:937][507]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2021.10.22-18.24.00:939][507]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2021.10.22-18.24.00:944][507]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2021.10.22-18.24.00:946][507]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2021.10.22-18.24.00:953][507]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2021.10.22-18.24.00:954][507]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2021.10.22-18.24.00:960][507]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2021.10.22-18.24.00:963][507]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2021.10.22-18.24.00:969][507]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2021.10.22-18.24.00:971][507]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2021.10.22-18.24.00:976][507]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2021.10.22-18.24.00:979][507]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.10.22-18.24.00:985][507]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.10.22-18.24.00:987][507]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2021.10.22-18.24.00:993][507]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2021.10.22-18.24.00:995][507]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2021.10.22-18.24.01:001][507]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2021.10.22-18.24.01:003][507]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2021.10.22-18.24.01:009][507]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2021.10.22-18.24.01:011][507]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2021.10.22-18.24.01:017][507]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2021.10.22-18.24.01:019][507]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 64X64)
+[2021.10.22-18.24.01:025][507]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 64X64)
+[2021.10.22-18.24.01:027][507]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 64X64)
+[2021.10.22-18.24.01:032][507]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 64X64)
+[2021.10.22-18.24.01:034][507]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2021.10.22-18.24.01:040][507]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2021.10.22-18.24.01:042][507]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2021.10.22-18.24.01:048][507]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2021.10.22-18.24.01:050][507]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2021.10.22-18.24.01:056][507]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2021.10.22-18.24.01:058][507]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 64X64)
+[2021.10.22-18.24.01:063][507]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 64X64)
+[2021.10.22-18.24.01:065][507]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2021.10.22-18.24.01:071][507]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2021.10.22-18.24.01:073][507]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2021.10.22-18.24.01:079][507]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2021.10.22-18.24.01:081][507]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2021.10.22-18.24.01:086][507]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2021.10.22-18.24.01:088][507]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 64X64)
+[2021.10.22-18.24.01:095][507]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 64X64)
+[2021.10.22-18.24.01:099][507]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2021.10.22-18.24.01:105][507]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2021.10.22-18.24.01:108][507]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2021.10.22-18.24.01:113][507]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2021.10.22-18.24.01:115][507]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2021.10.22-18.24.01:122][507]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2021.10.22-18.24.01:125][507]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 64X64)
+[2021.10.22-18.24.01:131][507]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 64X64)
+[2021.10.22-18.24.01:133][507]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 64X64)
+[2021.10.22-18.24.01:139][507]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 64X64)
+[2021.10.22-18.24.01:141][507]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 64X64)
+[2021.10.22-18.24.01:146][507]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 64X64)
+[2021.10.22-18.24.01:148][507]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 64X64)
+[2021.10.22-18.24.01:154][507]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 64X64)
+[2021.10.22-18.24.01:156][507]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 64X64)
+[2021.10.22-18.24.01:162][507]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 64X64)
+[2021.10.22-18.24.01:163][507]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 64X64)
+[2021.10.22-18.24.01:169][507]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 64X64)
+[2021.10.22-18.24.01:171][507]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 64X64)
+[2021.10.22-18.24.01:177][507]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 64X64)
+[2021.10.22-18.24.01:178][507]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 64X64)
+[2021.10.22-18.24.01:185][507]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 64X64)
+[2021.10.22-18.24.01:186][507]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 64X64)
+[2021.10.22-18.24.01:191][507]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 64X64)
+[2021.10.22-18.24.01:193][507]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 64X64)
+[2021.10.22-18.24.01:198][507]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 64X64)
+[2021.10.22-18.24.01:200][507]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 64X64)
+[2021.10.22-18.24.01:206][507]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 64X64)
+[2021.10.22-18.24.01:207][507]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2021.10.22-18.24.01:213][507]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2021.10.22-18.24.01:215][507]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 64X64)
+[2021.10.22-18.24.01:220][507]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 64X64)
+[2021.10.22-18.24.01:222][507]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 64X64)
+[2021.10.22-18.24.01:227][507]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 64X64)
+[2021.10.22-18.24.01:230][507]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 64X64)
+[2021.10.22-18.24.01:236][507]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 64X64)
+[2021.10.22-18.24.01:238][507]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 64X64)
+[2021.10.22-18.24.01:245][507]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 64X64)
+[2021.10.22-18.24.01:247][507]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 64X64)
+[2021.10.22-18.24.01:253][507]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 64X64)
+[2021.10.22-18.24.01:255][507]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 64X64)
+[2021.10.22-18.24.01:261][507]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 64X64)
+[2021.10.22-18.24.01:263][507]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 64X64)
+[2021.10.22-18.24.01:269][507]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 64X64)
+[2021.10.22-18.24.01:272][507]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 64X64)
+[2021.10.22-18.24.01:278][507]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 64X64)
+[2021.10.22-18.24.01:280][507]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 64X64)
+[2021.10.22-18.24.01:285][507]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 64X64)
+[2021.10.22-18.24.01:286][507]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 64X64)
+[2021.10.22-18.24.01:292][507]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 64X64)
+[2021.10.22-18.24.01:295][507]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 64X64)
+[2021.10.22-18.24.01:301][507]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 64X64)
+[2021.10.22-18.24.01:302][507]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 64X64)
+[2021.10.22-18.24.01:308][507]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 64X64)
+[2021.10.22-18.24.01:310][507]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 64X64)
+[2021.10.22-18.24.01:315][507]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 64X64)
+[2021.10.22-18.24.01:317][507]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 64X64)
+[2021.10.22-18.24.01:322][507]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 64X64)
+[2021.10.22-18.24.01:324][507]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 64X64)
+[2021.10.22-18.24.01:330][507]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 64X64)
+[2021.10.22-18.24.01:332][507]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 64X64)
+[2021.10.22-18.24.01:337][507]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 64X64)
+[2021.10.22-18.24.01:339][507]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 64X64)
+[2021.10.22-18.24.01:344][507]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 64X64)
+[2021.10.22-18.24.01:346][507]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 64X64)
+[2021.10.22-18.24.01:352][507]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 64X64)
+[2021.10.22-18.24.01:353][507]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 64X64)
+[2021.10.22-18.24.01:360][507]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 64X64)
+[2021.10.22-18.24.01:362][507]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 64X64)
+[2021.10.22-18.24.01:367][507]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 64X64)
+[2021.10.22-18.24.01:369][507]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 64X64)
+[2021.10.22-18.24.01:375][507]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 64X64)
+[2021.10.22-18.24.01:376][507]LogTexture: Display: Building textures: Texture2D_60 (BGRA8, 64X64)
+[2021.10.22-18.24.01:382][507]LogTexture: Display: Building textures: Texture2D_60 (BGRA8, 64X64)
+[2021.10.22-18.24.01:384][507]LogTexture: Display: Building textures: Texture2D_61 (BGRA8, 64X64)
+[2021.10.22-18.24.01:390][507]LogTexture: Display: Building textures: Texture2D_61 (BGRA8, 64X64)
+[2021.10.22-18.24.01:391][507]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 64X64)
+[2021.10.22-18.24.01:397][507]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 64X64)
+[2021.10.22-18.24.01:399][507]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 64X64)
+[2021.10.22-18.24.01:404][507]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 64X64)
+[2021.10.22-18.24.01:406][507]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 64X64)
+[2021.10.22-18.24.01:411][507]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 64X64)
+[2021.10.22-18.24.02:400][529]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 64X64)
+[2021.10.22-18.24.02:407][529]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 64X64)
+[2021.10.22-18.24.03:431][556]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 64X64)
+[2021.10.22-18.24.03:437][556]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 64X64)
+[2021.10.22-18.24.53:386][965]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2021.10.22-18.24.53:441][965]LogTexture: Display: Building textures: Texture2D_60 (BGRA8, 64X64)
+[2021.10.22-18.24.53:442][965]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 64X64)
+[2021.10.22-18.24.53:444][965]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 64X64)
+[2021.10.22-18.24.53:446][965]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 64X64)
+[2021.10.22-18.24.53:450][965]LogTexture: Display: Building textures: Texture2D_61 (BGRA8, 64X64)
+[2021.10.22-18.24.53:452][965]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 64X64)
+[2021.10.22-18.24.53:454][965]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 64X64)
+[2021.10.22-18.24.53:458][965]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 64X64)
+[2021.10.22-18.24.53:461][965]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 64X64)
+[2021.10.22-18.24.53:468][965]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 64X64)
+[2021.10.22-18.24.53:470][965]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 64X64)
+[2021.10.22-18.24.53:472][965]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 64X64)
+[2021.10.22-18.24.53:474][965]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 64X64)
+[2021.10.22-18.24.53:475][965]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 64X64)
+[2021.10.22-18.24.53:481][965]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 64X64)
+[2021.10.22-18.24.53:483][965]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 64X64)
+[2021.10.22-18.24.53:485][965]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 64X64)
+[2021.10.22-18.24.53:489][965]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2021.10.22-18.24.53:493][965]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 64X64)
+[2021.10.22-18.24.53:493][965]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 64X64)
+[2021.10.22-18.24.53:498][965]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 64X64)
+[2021.10.22-18.24.53:500][965]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 64X64)
+[2021.10.22-18.24.53:502][965]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 64X64)
+[2021.10.22-18.24.53:504][965]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 64X64)
+[2021.10.22-18.24.53:508][965]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2021.10.22-18.24.53:518][965]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2021.10.22-18.24.53:519][965]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2021.10.22-18.24.53:521][965]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2021.10.22-18.24.53:523][965]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 64X64)
+[2021.10.22-18.24.53:526][965]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2021.10.22-18.24.53:528][965]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2021.10.22-18.24.53:530][965]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2021.10.22-18.24.53:537][965]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2021.10.22-18.24.53:538][965]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2021.10.22-18.24.53:539][965]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2021.10.22-18.24.53:542][965]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2021.10.22-18.24.53:547][965]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2021.10.22-18.24.53:549][965]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2021.10.22-18.24.53:551][965]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2021.10.22-18.24.53:554][965]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 64X64)
+[2021.10.22-18.24.53:558][965]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2021.10.22-18.24.53:560][965]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2021.10.22-18.24.53:566][965]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2021.10.22-18.24.53:567][965]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 64X64)
+[2021.10.22-18.24.53:569][965]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 64X64)
+[2021.10.22-18.24.53:570][965]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 64X64)
+[2021.10.22-18.24.53:573][965]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2021.10.22-18.24.53:577][965]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 64X64)
+[2021.10.22-18.24.53:582][965]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 64X64)
+[2021.10.22-18.24.53:584][965]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2021.10.22-18.24.53:587][965]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 64X64)
+[2021.10.22-18.24.53:589][965]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 64X64)
+[2021.10.22-18.24.53:591][965]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 64X64)
+[2021.10.22-18.24.53:596][965]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 64X64)
+[2021.10.22-18.24.53:600][965]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 64X64)
+[2021.10.22-18.24.53:602][965]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 64X64)
+[2021.10.22-18.24.53:605][965]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 64X64)
+[2021.10.22-18.24.53:742][965]LogSavePackage: Moving '../../../../../../Users/natdy/OneDrive/Desktop/NPC/225-NPC/NPC/Saved/ThirdPersonExampleMap_Auto1885384DE4EBC895254EAF0AD908CE151.tmp' to '../../../../../../Users/natdy/OneDrive/Desktop/NPC/225-NPC/NPC/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2021.10.22-18.24.53:751][965]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.414
+[2021.10.22-18.24.53:752][965]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.414
+[2021.10.22-18.25.52:124][ 35]LogMaterial: Display: Missing cached shadermap for FoliageBrushSphereMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 9737E37E56DEE361BC2B3259995AB375987486F4), compiling. 
+[2021.10.22-18.25.52:152][ 35]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Low' priority
+[2021.10.22-18.25.52:228][ 35]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2021.10.22-18.25.52:228][ 35]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.10.22-18.25.52:228][ 35]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2021.10.22-18.25.52:228][ 35]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.10.22-18.25.52:228][ 35]LogShaderCompilers: Display: Started 14 'Local' shader compile jobs with 'Low' priority
+[2021.10.22-18.25.54:440][ 97]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.10.22-18.25.54:440][ 97]LogShaderCompilers: Display: Total job queries 623, among them cache hits 342 (54.90%)
+[2021.10.22-18.25.54:440][ 97]LogShaderCompilers: Display: Tracking 269 distinct input hashes that result in 144 distinct outputs (53.53%)
+[2021.10.22-18.25.54:440][ 97]LogShaderCompilers: Display: RAM used: 0.70 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.17%
+[2021.10.22-18.25.54:440][ 97]LogShaderCompilers: Display: ================================================
+[2021.10.22-18.26.09:645][  7]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2021.10.22-18.27.33:032][ 54]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2021.10.22-18.28.11:350][181]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2021.10.22-18.28.12:751][213]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
