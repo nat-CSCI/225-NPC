@@ -1561,3 +1561,216 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.06-19.37.01:473][144]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/ThirdPersonExampleMapC99AF36D4FB0F7E7F932D895C7E89171.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2021.11.06-19.37.01:494][144]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2021.11.06-19.37.01:494][144]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.06-19.39.39:747][872]LogTexture: Display: Building textures: Ground_A (OODLE_AutoDXT, 4096X4096)
+[2021.11.06-19.39.39:747][872]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.11.06-19.39.39:747][872]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.11.06-19.39.39:747][872]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.11.06-19.39.39:859][875]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2021.11.06-19.39.41:963][918]LogMaterial: Display: Missing cached shadermap for Ground_A_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: C1BDA4196CA9A8CD185B338565CB8202CC62A9C9), compiling. 
+[2021.11.06-19.39.42:017][919]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.11.06-19.39.42:017][919]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.11.06-19.39.42:017][919]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.06-19.39.42:017][919]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.06-19.39.42:017][919]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2021.11.06-19.39.42:062][919]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.11.06-19.39.42:062][919]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.11.06-19.39.42:062][919]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.39.45:980][964]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.06-19.39.45:980][964]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.06-19.39.45:998][964]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.11.06-19.39.45:998][964]LogShaderCompilers: Display: Total job queries 3261, among them cache hits 2557 (78.41%)
+[2021.11.06-19.39.45:998][964]LogShaderCompilers: Display: Tracking 689 distinct input hashes that result in 370 distinct outputs (53.70%)
+[2021.11.06-19.39.45:998][964]LogShaderCompilers: Display: RAM used: 4.61 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 1.13%
+[2021.11.06-19.39.45:998][964]LogShaderCompilers: Display: ================================================
+[2021.11.06-19.39.46:479][967]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.11.06-19.39.46:479][967]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.39.47:294][970]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.11.06-19.39.47:294][970]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.39.48:269][976]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.11.06-19.39.48:269][976]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.39.48:702][976]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.11.06-19.39.48:702][976]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.40.05:427][ 69]LogMaterial: Display: Missing cached shadermap for MA_PineProps in PCD3D_SM5, Default, SM5 (DDC key hash: 611F52EA9647E8AE3C9D71959933782D75380FB1), compiling. 
+[2021.11.06-19.40.05:572][ 69]LogShaderCompilers: Display: Submitted 76 shader compile jobs with 'Low' priority
+[2021.11.06-19.40.05:577][ 69]LogStaticMesh: Building static mesh Pine_GroundTwig_01...
+[2021.11.06-19.40.05:584][ 69]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 76
+[2021.11.06-19.40.05:584][ 69]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 66
+[2021.11.06-19.40.05:584][ 69]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 56
+[2021.11.06-19.40.05:584][ 69]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 46
+[2021.11.06-19.40.05:584][ 69]LogShaderCompilers: Display: Started 40 'Local' shader compile jobs with 'Low' priority
+[2021.11.06-19.40.05:877][ 69]LogStaticMesh: Built static mesh [0.30s] /Game/PN_coniferBushes_I/Meshes/Props/Pine_GroundTwig_01.Pine_GroundTwig_01
+[2021.11.06-19.40.05:935][ 69]LogActorFactory: Actor Factory created Pine_GroundTwig_01
+[2021.11.06-19.40.07:412][ 77]LogActorFactory: Actor Factory created Pine_GroundTwig_01
+[2021.11.06-19.40.15:281][135]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2021.11.06-19.40.15:281][135]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.40.15:349][135]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2021.11.06-19.40.15:349][135]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.40.16:196][138]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2021.11.06-19.40.16:196][138]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.40.16:407][138]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2021.11.06-19.40.16:407][138]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.40.17:126][141]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-19.40.18:351][145]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pine_GroundTwig_01)
+[2021.11.06-19.40.19:603][149]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2021.11.06-19.40.19:603][149]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.40.19:784][149]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.11.06-19.40.19:784][149]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.40.20:981][154]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.11.06-19.40.20:981][154]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.40.21:019][154]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.11.06-19.40.21:019][154]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.40.21:620][156]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.11.06-19.40.21:620][156]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.40.21:969][159]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.11.06-19.40.21:969][159]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.40.35:440][235]LogTexture: Display: Building textures: Spruce_05_PIV (RGBA16F, 5X3)
+[2021.11.06-19.40.35:440][235]LogTexture: Display: Building textures: Spruce_05_VEC (BGRA8, 5X3)
+[2021.11.06-19.40.35:440][235]LogMaterial: Display: Missing cached shadermap for Spruce_05 in PCD3D_SM5, Default, SM5 (DDC key hash: 7B9C2D9F8273927ED1450137E131080B9B0D01D4), compiling. 
+[2021.11.06-19.40.35:641][235]LogShaderCompilers: Display: Submitted 84 shader compile jobs with 'Low' priority
+[2021.11.06-19.40.35:652][235]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 84
+[2021.11.06-19.40.35:652][235]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 74
+[2021.11.06-19.40.35:652][235]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 64
+[2021.11.06-19.40.35:652][235]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 54
+[2021.11.06-19.40.35:652][235]LogShaderCompilers: Display: Started 40 'Local' shader compile jobs with 'Low' priority
+[2021.11.06-19.40.35:652][235]LogStaticMesh: Building static mesh Spruce_05...
+[2021.11.06-19.40.35:849][235]LogStaticMesh: Built static mesh [0.20s] /Game/PN_coniferBushes_I/Meshes/Spruce/Spruce_05.Spruce_05
+[2021.11.06-19.40.35:904][235]LogActorFactory: Actor Factory created Spruce_05
+[2021.11.06-19.40.37:444][246]LogActorFactory: Actor Factory created Spruce_05
+[2021.11.06-19.40.47:303][312]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 44
+[2021.11.06-19.40.47:303][312]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.40.48:359][318]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-19.40.53:943][344]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 34
+[2021.11.06-19.40.53:943][344]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.40.55:486][349]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2021.11.06-19.40.55:486][349]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.41.05:516][392]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2021.11.06-19.41.05:516][392]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.41.06:125][395]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.11.06-19.41.06:125][395]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.41.07:659][400]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.06-19.41.07:659][400]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.41.07:798][401]LogTexture: Display: Building textures: Pine_06_PIV (RGBA16F, 7X2)
+[2021.11.06-19.41.07:798][401]LogTexture: Display: Building textures: Pine_06_VEC (BGRA8, 7X2)
+[2021.11.06-19.41.07:798][401]LogStaticMesh: Building static mesh Pine_06...
+[2021.11.06-19.41.07:945][401]LogStaticMesh: Built static mesh [0.15s] /Game/PN_coniferBushes_I/Meshes/Pine/Pine_06.Pine_06
+[2021.11.06-19.41.09:065][408]LogActorFactory: Actor Factory created Pine_06
+[2021.11.06-19.41.09:278][411]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2021.11.06-19.41.09:278][411]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.41.10:549][418]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.11.06-19.41.10:549][418]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.41.12:353][427]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.06-19.41.12:353][427]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.41.12:367][427]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.06-19.41.12:367][427]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.41.13:834][432]LogActorFactory: Actor Factory created Pine_06
+[2021.11.06-19.41.23:723][504]LogActorFactory: Actor Factory created Pine_06
+[2021.11.06-19.41.25:414][519]LogActorFactory: Actor Factory created Pine_06
+[2021.11.06-19.41.33:711][606]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-19.41.35:102][639]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-19.41.44:635][714]LogActorFactory: Actor Factory created Pine_08
+[2021.11.06-19.41.46:952][731]LogActorFactory: Actor Factory created Pine_08
+[2021.11.06-19.41.55:397][809]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.11.06-19.41.58:305][827]Cmd: DELETE
+[2021.11.06-19.41.58:305][827]Cmd: ACTOR DELETE
+[2021.11.06-19.41.58:323][827]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.06-19.41.58:495][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.11.06-19.41.58:503][827]LogEditorActor: Deleted 1 Actors (0.198 secs)
+[2021.11.06-19.42.08:580][901]LogActorFactory: Actor Factory created Spruce_01
+[2021.11.06-19.42.11:507][925]LogActorFactory: Actor Factory created Spruce_01
+[2021.11.06-19.42.24:066][ 30]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-19.42.45:307][151]LogTexture: Display: Building textures: Larch_05_PIV (RGBA16F, 8X2)
+[2021.11.06-19.42.45:307][151]LogTexture: Display: Building textures: Larch_05_VEC (BGRA8, 8X2)
+[2021.11.06-19.42.45:307][151]LogStaticMesh: Building static mesh Larch_05...
+[2021.11.06-19.42.45:574][151]LogStaticMesh: Built static mesh [0.27s] /Game/PN_coniferBushes_I/Meshes/Larch/Larch_05.Larch_05
+[2021.11.06-19.42.45:590][151]LogMaterial: Display: Missing cached shadermap for Larch_05 in PCD3D_SM5, Default, SM5 (DDC key hash: 1C5618560936450D7FFDA4D7F7630E6EB44E206B), compiling. 
+[2021.11.06-19.42.45:697][151]LogShaderCompilers: Display: Submitted 84 shader compile jobs with 'Low' priority
+[2021.11.06-19.42.45:709][151]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 84
+[2021.11.06-19.42.45:709][151]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 74
+[2021.11.06-19.42.45:709][151]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 64
+[2021.11.06-19.42.45:709][151]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 54
+[2021.11.06-19.42.45:709][151]LogShaderCompilers: Display: Started 40 'Local' shader compile jobs with 'Low' priority
+[2021.11.06-19.42.45:732][151]LogActorFactory: Actor Factory created Larch_05
+[2021.11.06-19.42.47:389][163]LogActorFactory: Actor Factory created Larch_05
+[2021.11.06-19.42.54:491][215]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2021.11.06-19.43.00:768][247]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 44
+[2021.11.06-19.43.00:768][247]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.43.00:861][247]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.11.06-19.43.00:861][247]LogShaderCompilers: Display: Total job queries 3725, among them cache hits 2777 (74.55%)
+[2021.11.06-19.43.00:861][247]LogShaderCompilers: Display: Tracking 874 distinct input hashes that result in 465 distinct outputs (53.20%)
+[2021.11.06-19.43.00:861][247]LogShaderCompilers: Display: RAM used: 5.42 MB (0.01 GB) of 409.60 MB (0.40 GB) budget. Usage: 1.32%
+[2021.11.06-19.43.00:861][247]LogShaderCompilers: Display: ================================================
+[2021.11.06-19.43.09:227][288]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 34
+[2021.11.06-19.43.09:227][288]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.43.10:752][297]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2021.11.06-19.43.10:752][297]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.43.13:715][311]LogStaticMesh: Building static mesh Pine_GroundTwig_04...
+[2021.11.06-19.43.14:007][311]LogStaticMesh: Built static mesh [0.29s] /Game/PN_coniferBushes_I/Meshes/Props/Pine_GroundTwig_04.Pine_GroundTwig_04
+[2021.11.06-19.43.14:104][311]LogActorFactory: Actor Factory created Pine_GroundTwig_04
+[2021.11.06-19.43.16:163][322]LogActorFactory: Actor Factory created Pine_GroundTwig_04
+[2021.11.06-19.43.20:256][360]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2021.11.06-19.43.20:256][360]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.43.20:830][362]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.11.06-19.43.20:830][362]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.43.23:904][375]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.06-19.43.23:904][375]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.43.24:074][375]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.11.06-19.43.24:074][375]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.43.25:845][385]LogStaticMesh: Building static mesh Larch_GroundTwig_01...
+[2021.11.06-19.43.26:317][385]LogStaticMesh: Built static mesh [0.47s] /Game/PN_coniferBushes_I/Meshes/Props/Larch_GroundTwig_01.Larch_GroundTwig_01
+[2021.11.06-19.43.26:339][385]LogMaterial: Display: Missing cached shadermap for MA_LarchProps in PCD3D_SM5, Default, SM5 (DDC key hash: BF0B52EFF975E8D1EFEDACAB84EC671A4C1253A7), compiling. 
+[2021.11.06-19.43.26:478][385]LogShaderCompilers: Display: Submitted 76 shader compile jobs with 'Low' priority
+[2021.11.06-19.43.26:550][385]LogActorFactory: Actor Factory created Larch_GroundTwig_01
+[2021.11.06-19.43.27:684][392]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2021.11.06-19.43.27:684][392]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.06-19.43.28:150][395]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.11.06-19.43.28:150][395]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.06-19.43.28:397][395]LogActorFactory: Actor Factory created Larch_GroundTwig_01
+[2021.11.06-19.43.28:913][397]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.11.06-19.43.28:913][397]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.06-19.43.29:276][398]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.11.06-19.43.29:276][398]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.06-19.43.30:313][402]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.11.06-19.43.30:313][402]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.06-19.43.30:742][404]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.11.06-19.43.30:743][404]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.06-19.43.30:805][406]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 69
+[2021.11.06-19.43.30:805][406]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.43.31:021][408]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 59
+[2021.11.06-19.43.31:021][408]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.43.31:182][408]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 49
+[2021.11.06-19.43.31:182][408]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.43.32:658][416]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2021.11.06-19.43.32:658][416]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.43.37:126][437]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-19.43.40:141][448]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 29
+[2021.11.06-19.43.40:141][448]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.43.40:626][450]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2021.11.06-19.43.40:626][450]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.43.40:885][453]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2021.11.06-19.43.40:885][453]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.43.43:186][461]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.11.06-19.43.43:186][461]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.43.43:885][467]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.11.06-19.43.43:885][467]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.43.45:168][474]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.11.06-19.43.45:168][474]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.43.45:273][475]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.11.06-19.43.45:273][475]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.43.46:298][479]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.11.06-19.43.46:298][479]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.43.47:471][485]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.11.06-19.43.47:471][485]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-19.43.59:061][545]LogStaticMesh: Building static mesh Pine_GroundTwig_02...
+[2021.11.06-19.43.59:110][545]LogStaticMesh: Built static mesh [0.05s] /Game/PN_coniferBushes_I/Meshes/Props/Pine_GroundTwig_02.Pine_GroundTwig_02
+[2021.11.06-19.43.59:215][546]LogActorFactory: Actor Factory created Pine_GroundTwig_02
+[2021.11.06-19.44.00:719][556]LogActorFactory: Actor Factory created Pine_GroundTwig_02
+[2021.11.06-19.44.08:346][626]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-19.44.53:713][886]LogActorFactory: Actor Factory created Spruce_04
+[2021.11.06-19.44.55:522][901]LogActorFactory: Actor Factory created Spruce_04
+[2021.11.06-19.44.58:908][924]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Spruce_57.StaticMeshComponent0)
+[2021.11.06-19.44.58:909][924]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Spruce_57.StaticMeshComponent0)
+[2021.11.06-19.45.07:462][  3]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-19.45.16:055][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.11.06-19.45.16:130][ 45]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/ThirdPersonExampleMapCD076E1C40DAE9084DEB758629BD8D24.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.11.06-19.45.16:148][ 45]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.11.06-19.45.16:148][ 45]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
