@@ -1908,3 +1908,144 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.06-20.06.57:152][295]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/ThirdPersonExampleMapE1F5F80640DADCA4428DEFBF6FC8E0E3.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2021.11.06-20.06.57:181][295]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2021.11.06-20.06.57:181][295]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.06-20.10.13:834][919]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.11.06-20.13.08:819][113]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound)
+[2021.11.06-20.13.11:406][130]Cmd: DELETE
+[2021.11.06-20.13.11:407][130]Cmd: ACTOR DELETE
+[2021.11.06-20.13.11:427][130]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.06-20.13.11:732][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.11.06-20.13.11:736][130]LogEditorActor: Deleted 1 Actors (0.330 secs)
+[2021.11.06-20.13.13:311][136]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair2)
+[2021.11.06-20.13.14:352][142]Cmd: DELETE
+[2021.11.06-20.13.14:352][142]Cmd: ACTOR DELETE
+[2021.11.06-20.13.14:370][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.06-20.13.14:385][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.11.06-20.13.14:387][142]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2021.11.06-20.13.20:023][172]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2021.11.06-20.13.21:065][177]Cmd: DELETE
+[2021.11.06-20.13.21:066][177]Cmd: ACTOR DELETE
+[2021.11.06-20.13.21:083][177]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.06-20.13.21:097][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.11.06-20.13.21:099][177]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2021.11.06-20.13.25:302][201]LogLinker: Warning: Asset '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/LPGenericPropsSet04/Meshes/HouseEquipment/Armchair/SM_ArmchairSet18FabricSide.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.06-20.13.25:303][201]LogLinker: Warning: Asset '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/LPGenericPropsSet04/Materials/Fabric/MI_FabricSet05.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.06-20.13.25:303][201]LogLinker: Warning: Asset '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/LPGenericPropsSet04/Materials/Generic/M_Generic.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.06-20.13.25:310][201]LogLinker: Warning: Asset '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/LPGenericPropsSet04/Textures/Generic/T_FlatNormal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.06-20.13.25:311][201]LogLinker: Warning: Asset '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/LPGenericPropsSet04/Textures/Generic/T_Gray.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.06-20.13.25:367][201]LogTexture: Display: Building textures: T_FlatNormal (OODLE_BC5, 512X512)
+[2021.11.06-20.13.25:367][201]LogTexture: Display: Building textures: T_Gray (OODLE_AutoDXT, 512X512)
+[2021.11.06-20.13.25:367][201]LogMaterial: Display: Missing cached shadermap for M_Generic in PCD3D_SM5, Default, SM5 (DDC key hash: 073A3CB06A51007B409D915C2CF77C81F3CAECF5), compiling. 
+[2021.11.06-20.13.25:803][201]LogShaderCompilers: Display: Submitted 222 shader compile jobs with 'Low' priority
+[2021.11.06-20.13.25:805][201]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 222
+[2021.11.06-20.13.25:805][201]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 212
+[2021.11.06-20.13.25:805][201]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 202
+[2021.11.06-20.13.25:805][201]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 192
+[2021.11.06-20.13.25:805][201]LogShaderCompilers: Display: Started 40 'Local' shader compile jobs with 'Low' priority
+[2021.11.06-20.13.25:805][201]LogStaticMesh: Building static mesh SM_ArmchairSet18FabricSide...
+[2021.11.06-20.13.25:846][201]LogStaticMesh: Built static mesh [0.04s] /Game/LPGenericPropsSet04/Meshes/HouseEquipment/Armchair/SM_ArmchairSet18FabricSide.SM_ArmchairSet18FabricSide
+[2021.11.06-20.13.25:899][201]LogActorFactory: Actor Factory created SM_ArmchairSet18FabricSide
+[2021.11.06-20.13.31:814][227]LogActorFactory: Actor Factory created SM_ArmchairSet18FabricSide
+[2021.11.06-20.13.34:222][238]Cmd: DELETE
+[2021.11.06-20.13.34:222][238]Cmd: ACTOR DELETE
+[2021.11.06-20.13.34:255][238]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.06-20.13.34:653][238]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.11.06-20.13.34:662][238]LogEditorActor: Deleted 1 Actors (0.439 secs)
+[2021.11.06-20.13.36:032][243]LogLinker: Warning: Asset '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/LPGenericPropsSet04/Meshes/HouseEquipment/Armchair/SM_ArmchairSet18FabricMiddle.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.06-20.13.36:040][243]LogStaticMesh: Building static mesh SM_ArmchairSet18FabricMiddle...
+[2021.11.06-20.13.36:515][243]LogStaticMesh: Built static mesh [0.48s] /Game/LPGenericPropsSet04/Meshes/HouseEquipment/Armchair/SM_ArmchairSet18FabricMiddle.SM_ArmchairSet18FabricMiddle
+[2021.11.06-20.13.36:617][243]LogActorFactory: Actor Factory created SM_ArmchairSet18FabricMiddle
+[2021.11.06-20.13.38:906][251]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 182
+[2021.11.06-20.13.38:906][251]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-20.13.39:046][251]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.11.06-20.13.39:046][251]LogShaderCompilers: Display: Total job queries 4674, among them cache hits 3428 (73.34%)
+[2021.11.06-20.13.39:046][251]LogShaderCompilers: Display: Tracking 1034 distinct input hashes that result in 476 distinct outputs (46.03%)
+[2021.11.06-20.13.39:046][251]LogShaderCompilers: Display: RAM used: 5.47 MB (0.01 GB) of 409.60 MB (0.40 GB) budget. Usage: 1.33%
+[2021.11.06-20.13.39:047][251]LogShaderCompilers: Display: ================================================
+[2021.11.06-20.13.41:181][259]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 172
+[2021.11.06-20.13.41:181][259]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-20.13.41:488][261]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 162
+[2021.11.06-20.13.41:488][261]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-20.13.42:295][264]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 152
+[2021.11.06-20.13.42:295][264]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-20.13.43:372][267]LogActorFactory: Actor Factory created SM_ArmchairSet18FabricMiddle
+[2021.11.06-20.13.50:766][288]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 142
+[2021.11.06-20.13.50:766][288]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-20.13.51:198][289]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 132
+[2021.11.06-20.13.51:198][289]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-20.13.51:378][289]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 122
+[2021.11.06-20.13.51:378][289]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-20.13.51:540][291]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 112
+[2021.11.06-20.13.51:540][291]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-20.13.59:281][324]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 102
+[2021.11.06-20.13.59:281][324]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-20.13.59:425][324]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 92
+[2021.11.06-20.13.59:425][324]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-20.14.00:175][329]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 82
+[2021.11.06-20.14.00:175][329]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-20.14.02:978][338]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 72
+[2021.11.06-20.14.02:978][338]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-20.14.07:969][358]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 62
+[2021.11.06-20.14.07:969][358]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-20.14.09:785][363]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 52
+[2021.11.06-20.14.09:785][363]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-20.14.09:822][363]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 42
+[2021.11.06-20.14.09:822][363]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-20.14.24:337][412]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2021.11.06-20.14.24:337][412]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-20.14.25:466][414]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_Window_400x403)
+[2021.11.06-20.14.26:495][418]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2021.11.06-20.14.26:495][418]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-20.14.27:746][424]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2021.11.06-20.14.27:747][424]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-20.14.29:006][429]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.11.06-20.14.29:006][429]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-20.14.32:569][446]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.11.06-20.14.32:569][446]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-20.14.33:634][449]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.11.06-20.14.33:636][449]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-20.14.34:151][453]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.11.06-20.14.34:151][453]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-20.14.35:116][455]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.06-20.14.35:116][455]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-20.14.35:520][458]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.11.06-20.14.35:520][458]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-20.14.46:460][512]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ArmchairSet18FabricMiddle)
+[2021.11.06-20.15.00:494][596]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2021.11.06-20.15.03:288][608]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x401)
+[2021.11.06-20.15.11:609][667]LogActorFactory: Actor Factory created SM_ArmchairSet18FabricSide
+[2021.11.06-20.15.16:317][693]LogActorFactory: Actor Factory created SM_ArmchairSet18FabricSide
+[2021.11.06-20.16.40:865][189]Cmd: EDIT COPY
+[2021.11.06-20.16.42:154][196]Cmd: EDIT PASTE
+[2021.11.06-20.17.12:388][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow6)
+[2021.11.06-20.17.14:758][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ArmchairSet18FabricSide)
+[2021.11.06-20.17.25:694][436]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x402)
+[2021.11.06-20.17.27:100][442]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.11.06-20.17.29:475][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x402)
+[2021.11.06-20.18.05:873][656]LogLinker: Warning: Asset '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/LPGenericPropsSet04/Meshes/HouseEquipment/Bunk/SM_BunkSet03Fabric.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.06-20.18.05:874][656]LogLinker: Warning: Asset '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/LPGenericPropsSet04/Materials/Fabric/MI_FabricSet04.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.06-20.18.05:876][656]LogStaticMesh: Building static mesh SM_BunkSet03Fabric...
+[2021.11.06-20.18.05:935][656]LogStaticMesh: Built static mesh [0.06s] /Game/LPGenericPropsSet04/Meshes/HouseEquipment/Bunk/SM_BunkSet03Fabric.SM_BunkSet03Fabric
+[2021.11.06-20.18.06:241][667]LogActorFactory: Actor Factory created SM_BunkSet03Fabric
+[2021.11.06-20.18.20:205][746]LogActorFactory: Actor Factory created SM_BunkSet03Fabric
+[2021.11.06-20.18.55:390][950]LogLinker: Warning: Asset '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/LPGenericPropsSet04/Meshes/HouseEquipment/Bunk/SM_BunkSet02WoodPieceB.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.06-20.18.55:391][950]LogLinker: Warning: Asset '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/LPGenericPropsSet04/Materials/Wood/MI_WoodSet10.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.06-20.18.55:392][950]LogLinker: Warning: Asset '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/LPGenericPropsSet04/Textures/Wood/T_WoodSet02_Normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.06-20.18.55:454][950]LogTexture: Display: Building textures: T_WoodSet02_Normal (OODLE_BC5, 512X512)
+[2021.11.06-20.18.55:454][950]LogStaticMesh: Building static mesh SM_BunkSet02WoodPieceB...
+[2021.11.06-20.18.55:785][950]LogStaticMesh: Built static mesh [0.33s] /Game/LPGenericPropsSet04/Meshes/HouseEquipment/Bunk/SM_BunkSet02WoodPieceB.SM_BunkSet02WoodPieceB
+[2021.11.06-20.18.56:105][963]LogActorFactory: Actor Factory created SM_BunkSet02WoodPieceB
+[2021.11.06-20.19.04:749][  3]LogActorFactory: Actor Factory created SM_BunkSet02WoodPieceB
+[2021.11.06-20.19.44:966][243]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BunkSet03Fabric)
+[2021.11.06-20.20.19:250][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BunkSet02WoodPieceB)
+[2021.11.06-20.21.03:386][682]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BunkSet03Fabric)
+[2021.11.06-20.21.05:817][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BunkSet02WoodPieceB)
+[2021.11.06-20.21.56:321][969]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BunkSet02WoodPieceB)
+[2021.11.06-20.21.59:281][986]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BunkSet02WoodPieceB)
+[2021.11.06-20.22.04:810][ 14]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2021.11.06-20.22.06:968][ 24]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BunkSet02WoodPieceB)
+[2021.11.06-20.22.56:229][296]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BunkSet03Fabric)
+[2021.11.06-20.23.00:741][320]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x400)
+[2021.11.06-20.23.07:355][357]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.11.06-20.23.07:470][357]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/ThirdPersonExampleMapAE14E9634D61F3E8DD77A693847DCD80.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.11.06-20.23.07:510][357]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.11.06-20.23.07:510][357]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
