@@ -1947,3 +1947,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.06-17.27.11:714][719]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x404)
 [2021.11.06-17.27.16:058][818]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x403)
 [2021.11.06-17.27.17:914][859]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x402)
+[2021.11.06-17.27.31:209][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.11.06-17.27.31:234][963]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/ThirdPersonExampleMapEB4034424385D08B00082B9E1BE8C821.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.11.06-17.27.31:255][963]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.11.06-17.27.31:255][963]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
