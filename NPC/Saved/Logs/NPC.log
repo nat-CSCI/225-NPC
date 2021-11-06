@@ -2049,3 +2049,87 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.06-20.23.07:470][357]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/ThirdPersonExampleMapAE14E9634D61F3E8DD77A693847DCD80.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2021.11.06-20.23.07:510][357]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2021.11.06-20.23.07:510][357]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.06-20.23.58:538][573]LogLinker: Warning: Asset '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/LPGenericPropsSet04/Meshes/HouseEquipment/Table/SM_TableSet15Support.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.06-20.23.58:540][573]LogLinker: Warning: Asset '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/LPGenericPropsSet04/Materials/Wood/MI_WoodSet15.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.06-20.23.58:543][573]LogStaticMesh: Building static mesh SM_TableSet15Support...
+[2021.11.06-20.23.58:610][573]LogStaticMesh: Built static mesh [0.07s] /Game/LPGenericPropsSet04/Meshes/HouseEquipment/Table/SM_TableSet15Support.SM_TableSet15Support
+[2021.11.06-20.23.59:980][649]LogActorFactory: Actor Factory created SM_TableSet15Support
+[2021.11.06-20.24.12:743][761]LogActorFactory: Actor Factory created SM_TableSet15Support
+[2021.11.06-20.24.15:759][777]LogActorFactory: Actor Factory created SM_TableSet15Support
+[2021.11.06-20.24.17:031][783]LogLinker: Warning: Asset '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/LPGenericPropsSet04/Meshes/HouseEquipment/Table/SM_TableSet15Top.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.06-20.24.17:033][783]LogStaticMesh: Building static mesh SM_TableSet15Top...
+[2021.11.06-20.24.17:077][783]LogStaticMesh: Built static mesh [0.04s] /Game/LPGenericPropsSet04/Meshes/HouseEquipment/Table/SM_TableSet15Top.SM_TableSet15Top
+[2021.11.06-20.24.17:501][803]LogActorFactory: Actor Factory created SM_TableSet15Top
+[2021.11.06-20.24.36:610][110]LogActorFactory: Actor Factory created SM_TableSet15Top
+[2021.11.06-20.24.41:281][138]LogActorFactory: Actor Factory created SM_TableSet15Top
+[2021.11.06-20.26.09:171][658]LogLinker: Warning: Asset '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/LPGenericPropsSet04/Meshes/HouseEquipment/Wardrobe/SM_WardrobeSet01Wood.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.06-20.26.09:173][658]LogStaticMesh: Building static mesh SM_WardrobeSet01Wood...
+[2021.11.06-20.26.09:214][658]LogStaticMesh: Built static mesh [0.04s] /Game/LPGenericPropsSet04/Meshes/HouseEquipment/Wardrobe/SM_WardrobeSet01Wood.SM_WardrobeSet01Wood
+[2021.11.06-20.26.09:935][695]LogActorFactory: Actor Factory created SM_WardrobeSet01Wood
+[2021.11.06-20.26.14:560][721]LogActorFactory: Actor Factory created SM_WardrobeSet01Wood
+[2021.11.06-20.26.37:478][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x405)
+[2021.11.06-20.26.54:681][959]LogLinker: Warning: Asset '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/LPGenericPropsSet04/Meshes/HouseEquipment/Wardrobe/SM_WardrobeSet01CoverLeft.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.06-20.26.54:685][959]LogLinker: Warning: Asset '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/LPGenericPropsSet04/Materials/Chrome/MI_ChromeSet01.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.06-20.26.54:687][959]LogStaticMesh: Building static mesh SM_WardrobeSet01CoverLeft...
+[2021.11.06-20.26.54:993][959]LogStaticMesh: Built static mesh [0.31s] /Game/LPGenericPropsSet04/Meshes/HouseEquipment/Wardrobe/SM_WardrobeSet01CoverLeft.SM_WardrobeSet01CoverLeft
+[2021.11.06-20.26.55:028][959]LogActorFactory: Actor Factory created SM_WardrobeSet01CoverLeft
+[2021.11.06-20.27.03:331][  8]LogActorFactory: Actor Factory created SM_WardrobeSet01CoverLeft
+[2021.11.06-20.27.31:628][188]Cmd: EDIT COPY
+[2021.11.06-20.27.32:538][194]Cmd: EDIT PASTE
+[2021.11.06-20.27.52:955][322]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x404)
+[2021.11.06-20.28.27:022][529]LogLinker: Warning: Asset '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/LPGenericPropsSet04/Meshes/OfficeEquipment/Boxs/SM_BoxsSet09.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.06-20.28.27:025][529]LogLinker: Warning: Asset '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/LPGenericPropsSet04/Materials/Paper/MI_PaperSet01.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.06-20.28.27:027][529]LogLinker: Warning: Asset '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/LPGenericPropsSet04/Materials/Paper/MI_PaperSet03.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.06-20.28.27:028][529]LogLinker: Warning: Asset '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/LPGenericPropsSet04/Materials/Paper/MI_PaperSet04.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.06-20.28.27:030][529]LogLinker: Warning: Asset '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/LPGenericPropsSet04/Materials/Paper/MI_PaperSet05.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.06-20.28.27:034][529]LogStaticMesh: Building static mesh SM_BoxsSet09...
+[2021.11.06-20.28.27:071][529]LogStaticMesh: Built static mesh [0.04s] /Game/LPGenericPropsSet04/Meshes/OfficeEquipment/Boxs/SM_BoxsSet09.SM_BoxsSet09
+[2021.11.06-20.28.27:521][549]LogActorFactory: Actor Factory created SM_BoxsSet09
+[2021.11.06-20.28.30:973][567]LogActorFactory: Actor Factory created SM_BoxsSet09
+[2021.11.06-20.29.36:157][958]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x408)
+[2021.11.06-20.30.41:480][839]LogLinker: Warning: Asset '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/LPGenericPropsSet04/Meshes/HouseEquipment/Pot/SM_PotSet02Base.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.06-20.30.41:481][839]LogLinker: Warning: Asset '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/LPGenericPropsSet04/Materials/Plastic/MI_PlasticSet09.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.06-20.30.41:483][839]LogStaticMesh: Building static mesh SM_PotSet02Base...
+[2021.11.06-20.30.41:520][839]LogStaticMesh: Built static mesh [0.04s] /Game/LPGenericPropsSet04/Meshes/HouseEquipment/Pot/SM_PotSet02Base.SM_PotSet02Base
+[2021.11.06-20.30.41:952][855]LogActorFactory: Actor Factory created SM_PotSet02Base
+[2021.11.06-20.30.45:668][877]LogActorFactory: Actor Factory created SM_PotSet02Base
+[2021.11.06-20.31.02:135][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x407)
+[2021.11.06-20.31.35:013][232]LogLinker: Warning: Asset '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/LPGenericPropsSet04/Meshes/HouseEquipment/Mixed/SM_GameConsoleSet01Base.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.06-20.31.35:014][232]LogLinker: Warning: Asset '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/LPGenericPropsSet04/Materials/Plastic/MI_PlasticSet03.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.06-20.31.35:015][232]LogLinker: Warning: Asset '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/LPGenericPropsSet04/Materials/Plastic/MI_PlasticSet04.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.06-20.31.35:016][232]LogStaticMesh: Building static mesh SM_GameConsoleSet01Base...
+[2021.11.06-20.31.35:338][232]LogStaticMesh: Built static mesh [0.32s] /Game/LPGenericPropsSet04/Meshes/HouseEquipment/Mixed/SM_GameConsoleSet01Base.SM_GameConsoleSet01Base
+[2021.11.06-20.31.35:469][234]LogActorFactory: Actor Factory created SM_GameConsoleSet01Base
+[2021.11.06-20.31.41:848][273]LogActorFactory: Actor Factory created SM_GameConsoleSet01Base
+[2021.11.06-20.31.43:869][284]LogLinker: Warning: Asset '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/LPGenericPropsSet04/Meshes/HouseEquipment/Mixed/SM_GameConsoleSet01CD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.06-20.31.43:874][284]LogStaticMesh: Building static mesh SM_GameConsoleSet01CD...
+[2021.11.06-20.31.44:191][284]LogStaticMesh: Built static mesh [0.32s] /Game/LPGenericPropsSet04/Meshes/HouseEquipment/Mixed/SM_GameConsoleSet01CD.SM_GameConsoleSet01CD
+[2021.11.06-20.31.44:223][284]LogActorFactory: Actor Factory created SM_GameConsoleSet01CD
+[2021.11.06-20.31.48:887][312]LogActorFactory: Actor Factory created SM_GameConsoleSet01CD
+[2021.11.06-20.32.35:953][791]LogLinker: Warning: Asset '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/LPGenericPropsSet04/Meshes/RoofEquipment/Antenna/SM_AntennaSet01.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.06-20.32.35:954][791]LogLinker: Warning: Asset '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/LPGenericPropsSet04/Materials/Plastic/MI_PlasticSet01.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.06-20.32.35:956][791]LogStaticMesh: Building static mesh SM_AntennaSet01...
+[2021.11.06-20.32.36:103][791]LogStaticMesh: Built static mesh [0.15s] /Game/LPGenericPropsSet04/Meshes/RoofEquipment/Antenna/SM_AntennaSet01.SM_AntennaSet01
+[2021.11.06-20.32.36:245][794]LogActorFactory: Actor Factory created SM_AntennaSet01
+[2021.11.06-20.32.39:674][832]LogActorFactory: Actor Factory created SM_AntennaSet01
+[2021.11.06-20.32.53:725][970]LogLinker: Warning: Asset '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/LPGenericPropsSet04/Meshes/RoofEquipment/Antenna/SM_AntennaSet02.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.06-20.32.53:727][970]LogStaticMesh: Building static mesh SM_AntennaSet02...
+[2021.11.06-20.32.53:880][970]LogStaticMesh: Built static mesh [0.15s] /Game/LPGenericPropsSet04/Meshes/RoofEquipment/Antenna/SM_AntennaSet02.SM_AntennaSet02
+[2021.11.06-20.32.54:002][971]LogActorFactory: Actor Factory created SM_AntennaSet02
+[2021.11.06-20.32.56:342][998]LogActorFactory: Actor Factory created SM_AntennaSet02
+[2021.11.06-20.32.56:754][  3]Cmd: DELETE
+[2021.11.06-20.32.56:754][  3]Cmd: ACTOR DELETE
+[2021.11.06-20.32.56:772][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.06-20.32.56:878][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.11.06-20.32.56:882][  3]LogEditorActor: Deleted 1 Actors (0.128 secs)
+[2021.11.06-20.33.00:220][ 25]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AntennaSet01)
+[2021.11.06-20.33.01:450][ 35]Cmd: DELETE
+[2021.11.06-20.33.01:450][ 35]Cmd: ACTOR DELETE
+[2021.11.06-20.33.01:474][ 35]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.06-20.33.01:488][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.11.06-20.33.01:491][ 35]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2021.11.06-20.34.54:061][ 25]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-20.36.37:314][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.11.06-20.36.37:399][576]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/ThirdPersonExampleMapB78F2A4A4282F4BFE6E658918B0C06EE.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.11.06-20.36.37:418][576]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.11.06-20.36.37:418][576]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
