@@ -991,3 +991,63 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.06-15.40.03:464][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2021.11.06-15.40.03:466][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2021.11.06-15.40.03:952][  3]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.06-15.40.39:546][418]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x401)
+[2021.11.06-15.40.42:145][467]Cmd: EDIT COPY
+[2021.11.06-15.40.43:382][480]Cmd: EDIT PASTE
+[2021.11.06-15.40.55:287][760]Cmd: EDIT COPY
+[2021.11.06-15.41.01:769][926]Cmd: EDIT PASTE
+[2021.11.06-15.41.22:302][456]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x402)
+[2021.11.06-15.41.23:698][492]Cmd: EDIT COPY
+[2021.11.06-15.41.24:475][512]Cmd: EDIT PASTE
+[2021.11.06-15.41.33:007][733]Cmd: EDIT COPY
+[2021.11.06-15.41.34:236][764]Cmd: EDIT PASTE
+[2021.11.06-15.41.53:922][298]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-15.42.05:724][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x407)
+[2021.11.06-15.42.09:485][682]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-15.42.15:778][837]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x405)
+[2021.11.06-15.42.29:610][148]LogActorFactory: Actor Factory created Wall_500x500
+[2021.11.06-15.42.32:071][222]LogActorFactory: Actor Factory created Wall_500x500
+[2021.11.06-15.42.32:798][240]Cmd: DELETE
+[2021.11.06-15.42.32:799][240]Cmd: ACTOR DELETE
+[2021.11.06-15.42.32:804][240]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.06-15.42.32:847][240]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.11.06-15.42.32:849][240]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2021.11.06-15.42.33:957][275]LogActorFactory: Actor Factory created Wall_400x400
+[2021.11.06-15.42.36:110][340]LogActorFactory: Actor Factory created Wall_400x400
+[2021.11.06-15.42.46:987][556]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.11.06-15.42.48:495][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x400)
+[2021.11.06-15.43.00:548][914]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.11.06-15.43.08:880][118]LogActorFactory: Actor Factory created Floor_400x400
+[2021.11.06-15.43.17:153][360]LogActorFactory: Actor Factory created Floor_400x400
+[2021.11.06-15.45.08:312][285]Cmd: DELETE
+[2021.11.06-15.45.08:312][285]Cmd: ACTOR DELETE
+[2021.11.06-15.45.08:319][285]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.06-15.45.08:357][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.11.06-15.45.08:360][285]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2021.11.06-15.45.21:646][629]LogActorFactory: Actor Factory created Wall_400x200
+[2021.11.06-15.45.28:483][834]LogActorFactory: Actor Factory created Wall_400x200
+[2021.11.06-15.45.49:977][376]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x200)
+[2021.11.06-15.46.08:064][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x200)
+[2021.11.06-15.48.22:715][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x200)
+[2021.11.06-15.48.37:498][812]Cmd: EDIT COPY
+[2021.11.06-15.48.40:867][899]Cmd: EDIT PASTE
+[2021.11.06-15.49.33:729][155]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x200)
+[2021.11.06-15.49.43:451][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x201)
+[2021.11.06-15.50.20:951][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x200)
+[2021.11.06-15.50.44:339][932]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x201)
+[2021.11.06-15.51.00:514][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x200)
+[2021.11.06-15.51.49:120][195]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x201)
+[2021.11.06-15.51.58:581][330]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-15.52.14:407][743]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-15.52.15:949][782]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x201)
+[2021.11.06-15.52.21:333][925]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x200)
+[2021.11.06-15.52.43:223][422]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2021.11.06-15.52.44:748][461]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-15.52.51:876][645]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x201)
+[2021.11.06-15.53.11:368][174]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_400x200)
+[2021.11.06-15.53.12:420][224]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x200)
+[2021.11.06-15.53.30:300][698]LogSlate: Took 0.000271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.06-15.53.30:345][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.11.06-15.53.30:386][698]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/ThirdPersonExampleMap8155FA08406A29200FA6AEA4BB06BCAF.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.11.06-15.53.30:417][698]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.11.06-15.53.30:417][698]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
