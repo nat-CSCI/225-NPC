@@ -2186,3 +2186,34 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.06-17.43.07:179][134]Cmd: EDIT COPY
 [2021.11.06-17.43.07:972][150]Cmd: EDIT PASTE
 [2021.11.06-17.43.19:915][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame2)
+[2021.11.06-17.43.40:400][613]Cmd: EDIT COPY
+[2021.11.06-17.43.41:433][625]Cmd: EDIT PASTE
+[2021.11.06-17.44.25:921][336]Cmd: EDIT COPY
+[2021.11.06-17.44.26:736][354]Cmd: EDIT PASTE
+[2021.11.06-17.44.39:104][621]Cmd: EDIT COPY
+[2021.11.06-17.44.39:878][638]Cmd: EDIT PASTE
+[2021.11.06-17.45.05:674][201]Cmd: EDIT COPY
+[2021.11.06-17.45.06:565][221]Cmd: EDIT PASTE
+[2021.11.06-17.45.19:006][511]Cmd: EDIT COPY
+[2021.11.06-17.45.19:716][525]Cmd: EDIT PASTE
+[2021.11.06-17.45.57:547][405]Cmd: EDIT COPY
+[2021.11.06-17.45.58:514][424]Cmd: EDIT PASTE
+[2021.11.06-17.45.59:123][434]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x402)
+[2021.11.06-17.46.03:477][521]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame8)
+[2021.11.06-17.46.04:724][547]Cmd: DELETE
+[2021.11.06-17.46.04:725][547]Cmd: ACTOR DELETE
+[2021.11.06-17.46.04:732][547]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.06-17.46.04:773][547]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2021.11.06-17.46.04:776][547]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2021.11.06-17.46.05:417][561]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame7)
+[2021.11.06-17.46.10:316][668]Cmd: EDIT COPY
+[2021.11.06-17.46.11:035][684]Cmd: EDIT PASTE
+[2021.11.06-17.46.28:698][ 80]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x403)
+[2021.11.06-17.46.50:915][533]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame)
+[2021.11.06-17.47.20:825][989]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.11.06-17.47.21:895][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame)
+[2021.11.06-17.47.26:935][109]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2021.11.06-17.47.43:238][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.11.06-17.47.43:300][392]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/ThirdPersonExampleMapC8EA20884D0480E30F6A9389C7297662.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.11.06-17.47.43:331][392]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.11.06-17.47.43:331][392]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
