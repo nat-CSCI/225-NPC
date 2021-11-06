@@ -1729,3 +1729,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.06-17.09.30:731][420]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x404)
 [2021.11.06-17.09.35:148][536]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x403)
 [2021.11.06-17.09.37:309][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x402)
+[2021.11.06-17.10.01:141][830]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.06-17.10.01:183][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.11.06-17.10.01:217][830]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/ThirdPersonExampleMap0E75FA59491E2546ABBA8C8F8F65EF16.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.11.06-17.10.01:240][830]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.11.06-17.10.01:240][830]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
