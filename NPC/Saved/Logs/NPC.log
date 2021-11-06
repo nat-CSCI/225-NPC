@@ -1867,3 +1867,83 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.06-17.21.18:441][708]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/ThirdPersonExampleMapC17261A44FFF59E9AA0D33839F89C57A.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2021.11.06-17.21.18:459][708]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2021.11.06-17.21.18:459][708]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.06-17.21.55:224][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x401)
+[2021.11.06-17.22.07:596][716]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x400)
+[2021.11.06-17.22.40:134][541]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x201)
+[2021.11.06-17.23.20:243][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x400)
+[2021.11.06-17.23.23:787][439]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x400)
+[2021.11.06-17.23.32:809][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x401)
+[2021.11.06-17.23.54:844][ 49]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x400)
+[2021.11.06-17.24.56:963][297]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x400)
+[2021.11.06-17.25.33:829][965]LogMaterial: Display: Missing cached shadermap for T_Perlin_Noise_M_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 5CBE6409D4DEF33F597F75F839921E2126241B69), compiling. 
+[2021.11.06-17.25.33:879][966]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.11.06-17.25.33:879][966]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.11.06-17.25.33:879][966]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.06-17.25.33:879][966]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.06-17.25.33:879][966]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2021.11.06-17.25.33:915][966]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.11.06-17.25.33:915][966]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.11.06-17.25.33:915][966]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-17.25.38:126][ 48]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.06-17.25.38:126][ 48]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.06-17.25.38:134][ 48]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.11.06-17.25.38:134][ 48]LogShaderCompilers: Display: Total job queries 557, among them cache hits 13 (2.33%)
+[2021.11.06-17.25.38:135][ 48]LogShaderCompilers: Display: Tracking 529 distinct input hashes that result in 35 distinct outputs (6.62%)
+[2021.11.06-17.25.38:135][ 48]LogShaderCompilers: Display: RAM used: 0.23 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.06%
+[2021.11.06-17.25.38:135][ 48]LogShaderCompilers: Display: ================================================
+[2021.11.06-17.25.38:878][ 58]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.11.06-17.25.38:878][ 58]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-17.25.40:564][ 80]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.11.06-17.25.40:565][ 80]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-17.25.42:334][ 96]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.11.06-17.25.42:334][ 96]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-17.25.43:307][106]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.11.06-17.25.43:307][106]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-17.25.45:004][135]LogMaterial: Display: Missing cached shadermap for T_Smoke_Tiled_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 0B48922651C6575AEA0658F96193D2E5CE26338A), compiling. 
+[2021.11.06-17.25.45:054][136]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.11.06-17.25.45:054][136]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.11.06-17.25.45:054][136]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.06-17.25.45:054][136]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.06-17.25.45:054][136]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2021.11.06-17.25.45:054][136]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.11.06-17.25.45:054][136]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.11.06-17.25.45:054][136]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-17.25.45:954][161]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.11.06-17.25.45:955][161]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-17.25.46:765][174]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.11.06-17.25.46:766][174]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.06-17.25.49:124][203]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.11.06-17.25.49:124][203]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-17.25.50:874][219]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.11.06-17.25.50:874][219]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-17.25.50:874][219]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.11.06-17.25.50:874][219]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-17.26.01:536][391]LogMaterial: Display: Missing cached shadermap for T_Tech_Hex_Tile_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 857AE322210A5314D12D1BFC5C7E34732AA1E2B0), compiling. 
+[2021.11.06-17.26.01:587][392]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.11.06-17.26.01:587][392]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.11.06-17.26.01:587][392]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.06-17.26.01:587][392]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.06-17.26.01:587][392]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2021.11.06-17.26.01:587][392]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.11.06-17.26.01:587][392]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.11.06-17.26.01:587][392]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-17.26.02:459][416]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.11.06-17.26.02:459][416]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-17.26.03:339][430]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.11.06-17.26.03:339][430]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.06-17.26.05:865][453]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.11.06-17.26.05:866][453]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-17.26.07:356][467]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.11.06-17.26.07:356][467]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-17.26.07:608][469]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.11.06-17.26.07:608][469]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-17.26.48:376][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x400)
+[2021.11.06-17.26.51:238][242]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x400)
+[2021.11.06-17.26.52:163][261]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x401)
+[2021.11.06-17.26.57:504][391]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x408)
+[2021.11.06-17.26.59:782][436]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x407)
+[2021.11.06-17.27.06:089][587]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x405)
+[2021.11.06-17.27.07:888][628]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x400)
+[2021.11.06-17.27.11:714][719]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x404)
+[2021.11.06-17.27.16:058][818]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x403)
+[2021.11.06-17.27.17:914][859]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x402)
