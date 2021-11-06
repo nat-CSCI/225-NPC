@@ -1774,3 +1774,100 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.06-19.45.16:130][ 45]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/ThirdPersonExampleMapCD076E1C40DAE9084DEB758629BD8D24.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2021.11.06-19.45.16:148][ 45]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2021.11.06-19.45.16:148][ 45]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.06-19.45.50:047][468]LogStaticMesh: Building static mesh Larch_GroundTwig_02...
+[2021.11.06-19.45.50:354][468]LogStaticMesh: Built static mesh [0.31s] /Game/PN_coniferBushes_I/Meshes/Props/Larch_GroundTwig_02.Larch_GroundTwig_02
+[2021.11.06-19.45.50:389][468]LogActorFactory: Actor Factory created Larch_GroundTwig_02
+[2021.11.06-19.45.54:668][501]LogActorFactory: Actor Factory created Larch_GroundTwig_02
+[2021.11.06-19.46.03:944][578]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-19.46.16:175][653]LogStaticMesh: Building static mesh Pine_GroundTwig_03...
+[2021.11.06-19.46.16:433][653]LogStaticMesh: Built static mesh [0.26s] /Game/PN_coniferBushes_I/Meshes/Props/Pine_GroundTwig_03.Pine_GroundTwig_03
+[2021.11.06-19.46.16:575][654]LogActorFactory: Actor Factory created Pine_GroundTwig_03
+[2021.11.06-19.46.22:185][703]LogActorFactory: Actor Factory created Pine_GroundTwig_03
+[2021.11.06-19.46.30:737][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x201)
+[2021.11.06-19.46.32:290][793]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x201)
+[2021.11.06-19.46.33:938][803]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pine_GroundTwig_03)
+[2021.11.06-19.47.02:927][ 66]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-19.47.32:124][270]LogActorFactory: Actor Factory created Pine_GroundTwig_01
+[2021.11.06-19.47.34:727][293]LogActorFactory: Actor Factory created Pine_GroundTwig_01
+[2021.11.06-19.47.37:349][309]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x401)
+[2021.11.06-19.47.39:154][321]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pine_GroundTwig_2)
+[2021.11.06-19.47.51:510][432]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-19.48.01:213][484]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pine_GroundTwig_2)
+[2021.11.06-19.48.27:733][653]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-19.49.47:174][416]LogTexture: Display: Building textures: lowGrass_02_02_PIV (RGBA16F, 72X2)
+[2021.11.06-19.49.47:174][416]LogStaticMesh: Building static mesh lowGrass_02_02_SM...
+[2021.11.06-19.49.47:641][416]LogStaticMesh: Built static mesh [0.47s] /Game/PN_GrassLibrary/Meshes/grassMesh/lowGrass_02_02_SM.lowGrass_02_02_SM
+[2021.11.06-19.49.47:734][416]LogActorFactory: Actor Factory created lowGrass_02_02_SM
+[2021.11.06-19.49.47:771][417]LogMeshUtilities: Finished distance field build in 0.1s - 11x12x8 distance field, 728 triangles, Range [0.0, 1.0], lowGrass_02_02_SM
+[2021.11.06-19.49.51:295][441]LogActorFactory: Actor Factory created lowGrass_02_02_SM
+[2021.11.06-19.49.54:355][458]LogTexture: Display: Building textures: lowGrass_01_02_PIV (RGBA16F, 53X2)
+[2021.11.06-19.49.54:355][458]LogStaticMesh: Building static mesh lowGrass_01_01_SM...
+[2021.11.06-19.49.54:423][458]LogStaticMesh: Built static mesh [0.07s] /Game/PN_GrassLibrary/Meshes/grassMesh/lowGrass_01_01_SM.lowGrass_01_01_SM
+[2021.11.06-19.49.54:475][458]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 356 triangles, Range [0.0, 1.0], lowGrass_01_01_SM
+[2021.11.06-19.49.54:507][458]LogActorFactory: Actor Factory created lowGrass_01_01_SM
+[2021.11.06-19.49.57:901][486]LogActorFactory: Actor Factory created lowGrass_01_01_SM
+[2021.11.06-19.50.16:856][590]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-19.50.22:702][624]LogTexture: Display: Building textures: grass_12_08_PIV (RGBA16F, 4X2)
+[2021.11.06-19.50.22:702][624]LogTexture: Display: Building textures: grass_12_08_VEC (BGRA8, 4X2)
+[2021.11.06-19.50.22:702][624]LogStaticMesh: Building static mesh grass_12_08_mesh...
+[2021.11.06-19.50.22:735][624]LogStaticMesh: Built static mesh [0.03s] /Game/PN_GrassLibrary/Meshes/grassMesh/grass_12_08_mesh.grass_12_08_mesh
+[2021.11.06-19.50.22:819][624]LogMeshUtilities: Discarded distance field for grass_12_08_mesh as mesh was not closed!  Assign a two-sided material to fix.
+[2021.11.06-19.50.22:819][624]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 70 triangles, Range [-0.3, 1.0], grass_12_08_mesh
+[2021.11.06-19.50.23:018][632]LogActorFactory: Actor Factory created grass_12_08_mesh
+[2021.11.06-19.50.24:664][642]LogActorFactory: Actor Factory created grass_12_08_mesh
+[2021.11.06-19.50.31:082][705]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-19.50.35:271][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_12_08_mesh)
+[2021.11.06-19.51.13:699][ 60]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pine_08)
+[2021.11.06-19.51.20:913][ 99]LogActorFactory: Actor Factory created lowGrass_01_01_SM
+[2021.11.06-19.51.23:684][120]LogActorFactory: Actor Factory created lowGrass_01_01_SM
+[2021.11.06-19.51.34:739][181]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-19.51.49:708][253]LogTexture: Display: Building textures: lowGrass_08_02_PIV (RGBA16F, 8X7)
+[2021.11.06-19.51.49:708][253]LogStaticMesh: Building static mesh lowGrass_08_02_SM...
+[2021.11.06-19.51.49:758][253]LogStaticMesh: Built static mesh [0.05s] /Game/PN_GrassLibrary/Meshes/grassMesh/lowGrass_08_02_SM.lowGrass_08_02_SM
+[2021.11.06-19.51.49:842][253]LogMeshUtilities: Finished distance field build in 0.1s - 9x10x9 distance field, 318 triangles, Range [0.0, 0.9], lowGrass_08_02_SM
+[2021.11.06-19.51.49:998][258]LogActorFactory: Actor Factory created lowGrass_08_02_SM
+[2021.11.06-19.51.51:259][266]LogActorFactory: Actor Factory created lowGrass_08_02_SM
+[2021.11.06-19.51.58:532][305]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x201)
+[2021.11.06-19.52.48:457][564]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/PN_coniferBushes_I/Materials/Material_Instances/Props/MI_LarchProps.MI_LarchProps
+[2021.11.06-19.52.48:531][564]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2021.11.06-19.52.48:652][564]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.11.06-19.52.53:724][589]LogSlate: Window 'MI_LarchProps' being destroyed
+[2021.11.06-19.52.53:922][589]LogSlate: Window 'MI_LarchProps' being destroyed
+[2021.11.06-19.52.53:941][589]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.11.06-19.52.53:945][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.06-19.53.16:381][704]LogStaticMesh: Building static mesh Larch_GroundTwig_04...
+[2021.11.06-19.53.16:825][704]LogStaticMesh: Built static mesh [0.44s] /Game/PN_coniferBushes_I/Meshes/Props/Larch_GroundTwig_04.Larch_GroundTwig_04
+[2021.11.06-19.53.16:868][704]LogActorFactory: Actor Factory created Larch_GroundTwig_04
+[2021.11.06-19.53.19:187][722]LogActorFactory: Actor Factory created Larch_GroundTwig_04
+[2021.11.06-19.54.46:731][276]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-19.54.48:934][294]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-19.54.50:069][306]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-19.54.53:372][335]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-19.54.54:252][342]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Larch_GroundTwig_04)
+[2021.11.06-19.54.54:475][342]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Larch_GroundTwig_04)
+[2021.11.06-19.56.25:323][ 39]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-19.56.43:275][169]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x201)
+[2021.11.06-19.56.48:110][203]LogStaticMesh: Building static mesh Larch_GroundTwig_03...
+[2021.11.06-19.56.48:276][203]LogStaticMesh: Built static mesh [0.17s] /Game/PN_coniferBushes_I/Meshes/Props/Larch_GroundTwig_03.Larch_GroundTwig_03
+[2021.11.06-19.56.48:505][210]LogActorFactory: Actor Factory created Larch_GroundTwig_03
+[2021.11.06-19.56.50:053][224]LogActorFactory: Actor Factory created Larch_GroundTwig_03
+[2021.11.06-19.57.10:113][389]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-19.57.18:809][451]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Larch_GroundTwig_03)
+[2021.11.06-19.57.44:272][673]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-19.57.54:536][746]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x201)
+[2021.11.06-19.57.56:146][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Larch_GroundTwig_03)
+[2021.11.06-19.58.31:584][ 88]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-19.58.39:046][140]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-19.58.41:107][156]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Larch_GroundTwig_03)
+[2021.11.06-19.58.42:741][170]Cmd: EDIT COPY
+[2021.11.06-19.58.43:760][178]Cmd: EDIT PASTE
+[2021.11.06-19.59.14:240][470]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-19.59.36:847][666]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Larch_GroundTwig_4)
+[2021.11.06-20.01.49:440][915]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-20.02.23:839][199]LogActorFactory: Actor Factory created grass_11_04_mesh
+[2021.11.06-20.02.25:008][212]LogActorFactory: Actor Factory created grass_11_04_mesh
+[2021.11.06-20.02.34:373][339]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-20.02.48:222][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.11.06-20.02.48:296][429]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/ThirdPersonExampleMap38F575A44B76AC65F875BEBAD4CC08D8.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.11.06-20.02.48:315][429]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.11.06-20.02.48:315][429]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
