@@ -1051,3 +1051,43 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.06-15.53.30:386][698]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/ThirdPersonExampleMap8155FA08406A29200FA6AEA4BB06BCAF.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2021.11.06-15.53.30:417][698]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2021.11.06-15.53.30:417][698]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.06-15.54.07:403][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2021.11.06-15.54.08:370][  0]Cmd: DELETE
+[2021.11.06-15.54.08:370][  0]Cmd: ACTOR DELETE
+[2021.11.06-15.54.08:375][  0]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.06-15.54.08:410][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.11.06-15.54.08:413][  0]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2021.11.06-15.54.35:222][888]LogActorFactory: Actor Factory created SM_GlassWindow
+[2021.11.06-15.54.39:293][ 18]LogActorFactory: Actor Factory created SM_GlassWindow
+[2021.11.06-15.56.15:615][896]Cmd: EDIT COPY
+[2021.11.06-15.56.16:542][908]Cmd: EDIT PASTE
+[2021.11.06-15.57.14:908][564]Cmd: EDIT COPY
+[2021.11.06-15.57.15:919][591]Cmd: EDIT PASTE
+[2021.11.06-15.57.24:634][820]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow2)
+[2021.11.06-15.57.36:825][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow3)
+[2021.11.06-15.57.45:884][381]Cmd: EDIT COPY
+[2021.11.06-15.57.46:929][407]Cmd: EDIT PASTE
+[2021.11.06-15.57.58:218][645]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-15.57.59:446][710]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-15.58.08:509][938]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow4)
+[2021.11.06-15.58.18:572][235]Cmd: EDIT COPY
+[2021.11.06-15.58.19:365][256]Cmd: EDIT PASTE
+[2021.11.06-15.58.27:296][508]Cmd: DELETE
+[2021.11.06-15.58.27:296][508]Cmd: ACTOR DELETE
+[2021.11.06-15.58.27:301][508]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.06-15.58.27:337][508]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2021.11.06-15.58.27:341][508]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2021.11.06-15.58.28:011][526]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow4)
+[2021.11.06-15.58.29:137][553]Cmd: EDIT COPY
+[2021.11.06-15.58.30:114][578]Cmd: EDIT PASTE
+[2021.11.06-15.58.42:900][946]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow4)
+[2021.11.06-15.58.47:893][ 72]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow5)
+[2021.11.06-15.58.51:179][161]Cmd: EDIT COPY
+[2021.11.06-15.58.52:249][190]Cmd: EDIT PASTE
+[2021.11.06-15.59.21:211][944]Cmd: EDIT COPY
+[2021.11.06-15.59.22:070][964]Cmd: EDIT PASTE
+[2021.11.06-15.59.28:714][145]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x402)
+[2021.11.06-15.59.30:602][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.11.06-15.59.30:638][190]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/ThirdPersonExampleMapB72A5AC3482E7727499E079BDAC4EC80.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.11.06-15.59.30:663][190]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.11.06-15.59.30:664][190]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
