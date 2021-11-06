@@ -1634,3 +1634,29 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.06-16.44.01:381][542]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/ThirdPersonExampleMapC95477824EB80D002A007592B7AAC76C.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2021.11.06-16.44.01:408][542]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2021.11.06-16.44.01:408][542]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.06-16.44.22:604][777]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x402)
+[2021.11.06-16.45.26:503][ 23]LogMaterial: Display: Missing cached shadermap for T_Concrete_Grime_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 55D005A6A07763BF4E4B3A4A5D283F59BE0FC48A), compiling. 
+[2021.11.06-16.45.26:534][ 23]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.11.06-16.45.26:541][ 23]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.11.06-16.45.26:541][ 23]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.06-16.45.26:541][ 23]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.06-16.45.26:549][ 23]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2021.11.06-16.45.26:670][ 24]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.11.06-16.45.26:670][ 24]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.11.06-16.45.26:670][ 24]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-16.45.30:951][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.06-16.45.30:951][111]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.06-16.45.30:951][111]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.11.06-16.45.30:951][111]LogShaderCompilers: Display: Total job queries 257, among them cache hits 1 (0.39%)
+[2021.11.06-16.45.30:951][111]LogShaderCompilers: Display: Tracking 241 distinct input hashes that result in 35 distinct outputs (14.52%)
+[2021.11.06-16.45.30:951][111]LogShaderCompilers: Display: RAM used: 0.21 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.05%
+[2021.11.06-16.45.30:951][111]LogShaderCompilers: Display: ================================================
+[2021.11.06-16.45.31:912][126]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.11.06-16.45.31:912][126]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-16.45.33:574][150]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.11.06-16.45.33:574][150]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-16.45.35:490][180]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.11.06-16.45.35:490][180]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-16.45.36:482][195]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.11.06-16.45.36:482][195]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.06-16.45.55:826][591]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
