@@ -1951,3 +1951,238 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.06-17.27.31:234][963]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/ThirdPersonExampleMapEB4034424385D08B00082B9E1BE8C821.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2021.11.06-17.27.31:255][963]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2021.11.06-17.27.31:255][963]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.06-17.27.50:399][209]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Wedge_B2)
+[2021.11.06-17.28.25:446][989]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Wedge_B)
+[2021.11.06-17.28.40:107][305]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x200)
+[2021.11.06-17.29.27:560][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2021.11.06-17.30.34:362][753]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2021.11.06-17.30.46:703][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x400)
+[2021.11.06-17.30.53:735][154]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2021.11.06-17.31.19:027][677]Cmd: DELETE
+[2021.11.06-17.31.19:027][677]Cmd: ACTOR DELETE
+[2021.11.06-17.31.19:032][677]LogEditorActor: Deleted Actor: RectLight
+[2021.11.06-17.31.19:084][677]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.11.06-17.31.19:088][677]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2021.11.06-17.31.29:106][905]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x201)
+[2021.11.06-17.31.30:054][926]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2021.11.06-17.31.31:654][966]Cmd: EDIT COPY
+[2021.11.06-17.31.32:334][983]Cmd: EDIT PASTE
+[2021.11.06-17.32.19:927][976]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2021.11.06-17.32.53:513][731]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight5)
+[2021.11.06-17.33.07:840][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Wedge_B)
+[2021.11.06-17.33.08:884][ 88]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight5)
+[2021.11.06-17.33.29:275][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Wedge_B)
+[2021.11.06-17.33.34:337][648]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight5)
+[2021.11.06-17.33.35:122][667]Cmd: DELETE
+[2021.11.06-17.33.35:122][667]Cmd: ACTOR DELETE
+[2021.11.06-17.33.35:128][667]LogEditorActor: Deleted Actor: SpotLight
+[2021.11.06-17.33.35:153][667]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2021.11.06-17.33.35:155][667]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2021.11.06-17.33.38:620][758]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2021.11.06-17.33.39:828][789]Cmd: EDIT COPY
+[2021.11.06-17.33.40:539][807]Cmd: EDIT PASTE
+[2021.11.06-17.34.16:688][771]LogActorFactory: Actor Factory created SM_TableRound
+[2021.11.06-17.34.20:513][842]LogActorFactory: Actor Factory created SM_TableRound
+[2021.11.06-17.34.31:860][290]LogActorFactory: Actor Factory created SM_Chair
+[2021.11.06-17.34.34:290][336]LogActorFactory: Actor Factory created SM_Chair
+[2021.11.06-17.34.36:102][369]LogActorFactory: Actor Factory created SM_Chair
+[2021.11.06-17.34.39:535][437]LogActorFactory: Actor Factory created SM_Chair
+[2021.11.06-17.35.12:715][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair2)
+[2021.11.06-17.35.24:795][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x404)
+[2021.11.06-17.35.27:840][ 66]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair2)
+[2021.11.06-17.35.42:483][256]LogMaterial: Display: Missing cached shadermap for M_Shelf in PCD3D_SM5, Default, SM5 (DDC key hash: 5D96104305C3E6025AF2C90E9FBB31A6020425A1), compiling. 
+[2021.11.06-17.35.42:558][256]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.11.06-17.35.42:563][256]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2021.11.06-17.35.42:563][256]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2021.11.06-17.35.42:563][256]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2021.11.06-17.35.42:563][256]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.11.06-17.35.42:563][256]LogShaderCompilers: Display: Started 25 'Local' shader compile jobs with 'Low' priority
+[2021.11.06-17.35.42:735][257]LogActorFactory: Actor Factory created SM_Shelf
+[2021.11.06-17.35.46:372][315]LogActorFactory: Actor Factory created SM_Shelf
+[2021.11.06-17.35.47:337][327]LogActorFactory: Actor Factory created SM_Shelf
+[2021.11.06-17.35.49:984][359]Cmd: DELETE
+[2021.11.06-17.35.49:984][359]Cmd: ACTOR DELETE
+[2021.11.06-17.35.49:996][359]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.06-17.35.50:064][359]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2021.11.06-17.35.50:077][359]LogEditorActor: Deleted 1 Actors (0.093 secs)
+[2021.11.06-17.35.55:420][401]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.11.06-17.35.55:420][401]LogShaderCompilers: Display: Total job queries 614, among them cache hits 13 (2.12%)
+[2021.11.06-17.35.55:420][401]LogShaderCompilers: Display: Tracking 580 distinct input hashes that result in 39 distinct outputs (6.72%)
+[2021.11.06-17.35.55:420][401]LogShaderCompilers: Display: RAM used: 0.26 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.06%
+[2021.11.06-17.35.55:420][401]LogShaderCompilers: Display: ================================================
+[2021.11.06-17.35.57:672][421]LogActorFactory: Actor Factory created SM_Lamp_Ceiling
+[2021.11.06-17.35.59:741][448]LogActorFactory: Actor Factory created SM_Lamp_Ceiling
+[2021.11.06-17.36.06:147][579]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2021.11.06-17.37.02:210][ 95]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2021.11.06-17.38.06:082][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.06-17.38.06:119][919]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/ThirdPersonExampleMap_Auto1282C1A3F4B632BE15990C09F795F5D78.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2021.11.06-17.38.06:122][919]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.048
+[2021.11.06-17.38.06:122][919]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.048
+[2021.11.06-17.38.06:123][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Brick_Clay_New_Mat] ([1] browsable assets)...
+[2021.11.06-17.38.06:157][919]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Brick_Clay_New_Mat.T_Brick_Clay_New_Mat]
+[2021.11.06-17.38.06:157][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Brick_Clay_New_Mat]
+[2021.11.06-17.38.06:168][919]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/T_Brick_Clay_New_Mat_Auto1EE0A823145D87D1C771A1B97D7031F54.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/Autosaves/Game/StarterContent/Textures/T_Brick_Clay_New_Mat_Auto1.uasset'
+[2021.11.06-17.38.06:170][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Brick_Clay_Old_Mat] ([1] browsable assets)...
+[2021.11.06-17.38.06:205][919]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Brick_Clay_Old_Mat.T_Brick_Clay_Old_Mat]
+[2021.11.06-17.38.06:206][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Brick_Clay_Old_Mat]
+[2021.11.06-17.38.06:214][919]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/T_Brick_Clay_Old_Mat_Auto124B456A64DC42C82829B96BAD20BB413.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/Autosaves/Game/StarterContent/Textures/T_Brick_Clay_Old_Mat_Auto1.uasset'
+[2021.11.06-17.38.06:217][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Brick_Cut_Stone_Mat] ([1] browsable assets)...
+[2021.11.06-17.38.06:256][919]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Brick_Cut_Stone_Mat.T_Brick_Cut_Stone_Mat]
+[2021.11.06-17.38.06:256][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Brick_Cut_Stone_Mat]
+[2021.11.06-17.38.06:265][919]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/T_Brick_Cut_Stone_Mat_Auto1E0E95857417189A1B3F7D1B287BC1281.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/Autosaves/Game/StarterContent/Textures/T_Brick_Cut_Stone_Mat_Auto1.uasset'
+[2021.11.06-17.38.06:269][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_CobbleStone_Pebble_Mat] ([1] browsable assets)...
+[2021.11.06-17.38.06:306][919]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_CobbleStone_Pebble_Mat.T_CobbleStone_Pebble_Mat]
+[2021.11.06-17.38.06:306][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_CobbleStone_Pebble_Mat]
+[2021.11.06-17.38.06:315][919]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/T_CobbleStone_Pebble_Mat_Auto14C19703F4DE4C4B639AC07BD22CC2D21.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/Autosaves/Game/StarterContent/Textures/T_CobbleStone_Pebble_Mat_Auto1.uasset'
+[2021.11.06-17.38.06:317][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Concrete_Tiles_Variation_M_Mat] ([1] browsable assets)...
+[2021.11.06-17.38.06:351][919]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Concrete_Tiles_Variation_M_Mat.T_Concrete_Tiles_Variation_M_Mat]
+[2021.11.06-17.38.06:351][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Concrete_Tiles_Variation_M_Mat]
+[2021.11.06-17.38.06:360][919]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/T_Concrete_Tiles_Variation_M_MatC1E6CBF94588C1CF04B764AE4F558932.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/Autosaves/Game/StarterContent/Textures/T_Concrete_Tiles_Variation_M_Mat_Auto1.uasset'
+[2021.11.06-17.38.06:362][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_MacroVariation_Mat] ([1] browsable assets)...
+[2021.11.06-17.38.06:396][919]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_MacroVariation_Mat.T_MacroVariation_Mat]
+[2021.11.06-17.38.06:396][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_MacroVariation_Mat]
+[2021.11.06-17.38.06:404][919]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/T_MacroVariation_Mat_Auto10DE0619244B5780FC8AD28B947E47D46.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/Autosaves/Game/StarterContent/Textures/T_MacroVariation_Mat_Auto1.uasset'
+[2021.11.06-17.38.06:406][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Metal_Steel_Mat] ([1] browsable assets)...
+[2021.11.06-17.38.06:440][919]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Metal_Steel_Mat.T_Metal_Steel_Mat]
+[2021.11.06-17.38.06:440][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Metal_Steel_Mat]
+[2021.11.06-17.38.06:447][919]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/T_Metal_Steel_Mat_Auto166DBF5B14568F385AE6C218E587F0687.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/Autosaves/Game/StarterContent/Textures/T_Metal_Steel_Mat_Auto1.uasset'
+[2021.11.06-17.38.06:450][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Wood_Floor_Walnut_M_Mat] ([1] browsable assets)...
+[2021.11.06-17.38.06:485][919]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Wood_Floor_Walnut_M_Mat.T_Wood_Floor_Walnut_M_Mat]
+[2021.11.06-17.38.06:485][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Wood_Floor_Walnut_M_Mat]
+[2021.11.06-17.38.06:494][919]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/T_Wood_Floor_Walnut_M_Mat_Auto186CFAE86493EDF58CE324785E5752473.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/Autosaves/Game/StarterContent/Textures/T_Wood_Floor_Walnut_M_Mat_Auto1.uasset'
+[2021.11.06-17.38.06:497][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Wood_Floor_Walnut_Mat] ([1] browsable assets)...
+[2021.11.06-17.38.06:534][919]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Wood_Floor_Walnut_Mat.T_Wood_Floor_Walnut_Mat]
+[2021.11.06-17.38.06:534][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Wood_Floor_Walnut_Mat]
+[2021.11.06-17.38.06:541][919]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/T_Wood_Floor_Walnut_Mat_Auto1F878E82A4EE3516B51BF4A9700FCF85D.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/Autosaves/Game/StarterContent/Textures/T_Wood_Floor_Walnut_Mat_Auto1.uasset'
+[2021.11.06-17.38.06:543][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Wood_Oak_Mat] ([1] browsable assets)...
+[2021.11.06-17.38.06:577][919]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Wood_Oak_Mat.T_Wood_Oak_Mat]
+[2021.11.06-17.38.06:577][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Wood_Oak_Mat]
+[2021.11.06-17.38.06:585][919]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/T_Wood_Oak_Mat_Auto18506A1374AD591CA8444C4ADD7AE7B1C.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/Autosaves/Game/StarterContent/Textures/T_Wood_Oak_Mat_Auto1.uasset'
+[2021.11.06-17.38.06:587][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Wood_Pine_Mat] ([1] browsable assets)...
+[2021.11.06-17.38.06:623][919]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Wood_Pine_Mat.T_Wood_Pine_Mat]
+[2021.11.06-17.38.06:623][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Wood_Pine_Mat]
+[2021.11.06-17.38.06:630][919]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/T_Wood_Pine_Mat_Auto1B282B5BE437DE743B1C0328E471CD241.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/Autosaves/Game/StarterContent/Textures/T_Wood_Pine_Mat_Auto1.uasset'
+[2021.11.06-17.38.06:632][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Concrete_Tiles_Mat] ([1] browsable assets)...
+[2021.11.06-17.38.06:665][919]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Concrete_Tiles_Mat.T_Concrete_Tiles_Mat]
+[2021.11.06-17.38.06:665][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Concrete_Tiles_Mat]
+[2021.11.06-17.38.06:672][919]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/T_Concrete_Tiles_Mat_Auto1FC9A6F6C48DA8B835943FAA957E49E71.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/Autosaves/Game/StarterContent/Textures/T_Concrete_Tiles_Mat_Auto1.uasset'
+[2021.11.06-17.38.06:674][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Brick_Hewn_Stone_Mat] ([1] browsable assets)...
+[2021.11.06-17.38.06:709][919]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Brick_Hewn_Stone_Mat.T_Brick_Hewn_Stone_Mat]
+[2021.11.06-17.38.06:709][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Brick_Hewn_Stone_Mat]
+[2021.11.06-17.38.06:718][919]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/T_Brick_Hewn_Stone_Mat_Auto119FC5886424DE0A00BD478BA1A9ABF19.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/Autosaves/Game/StarterContent/Textures/T_Brick_Hewn_Stone_Mat_Auto1.uasset'
+[2021.11.06-17.38.06:721][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Rock_Basalt_Mat] ([1] browsable assets)...
+[2021.11.06-17.38.06:757][919]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Rock_Basalt_Mat.T_Rock_Basalt_Mat]
+[2021.11.06-17.38.06:757][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Rock_Basalt_Mat]
+[2021.11.06-17.38.06:765][919]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/T_Rock_Basalt_Mat_Auto1A580AF0E41FD4BF7D7ACC3AF8AD27AAA.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/Autosaves/Game/StarterContent/Textures/T_Rock_Basalt_Mat_Auto1.uasset'
+[2021.11.06-17.38.06:768][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Rock_Smooth_Granite_Mat] ([1] browsable assets)...
+[2021.11.06-17.38.06:803][919]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Rock_Smooth_Granite_Mat.T_Rock_Smooth_Granite_Mat]
+[2021.11.06-17.38.06:803][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Rock_Smooth_Granite_Mat]
+[2021.11.06-17.38.06:810][919]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/T_Rock_Smooth_Granite_Mat_Auto1A3F962C14C81622690B9DDA8DBCE776F.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/Autosaves/Game/StarterContent/Textures/T_Rock_Smooth_Granite_Mat_Auto1.uasset'
+[2021.11.06-17.38.06:812][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Wood_Walnut_Mat] ([1] browsable assets)...
+[2021.11.06-17.38.06:848][919]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Wood_Walnut_Mat.T_Wood_Walnut_Mat]
+[2021.11.06-17.38.06:848][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Wood_Walnut_Mat]
+[2021.11.06-17.38.06:855][919]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/T_Wood_Walnut_Mat_Auto1DCD524B9464BBFAA76F4DC97CDE646A9.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/Autosaves/Game/StarterContent/Textures/T_Wood_Walnut_Mat_Auto1.uasset'
+[2021.11.06-17.38.06:857][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_CobbleStone_Smooth_Mat] ([1] browsable assets)...
+[2021.11.06-17.38.06:891][919]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_CobbleStone_Smooth_Mat.T_CobbleStone_Smooth_Mat]
+[2021.11.06-17.38.06:891][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_CobbleStone_Smooth_Mat]
+[2021.11.06-17.38.06:898][919]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/T_CobbleStone_Smooth_Mat_Auto1B4904EFB44005F87D620E99ABB873093.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/Autosaves/Game/StarterContent/Textures/T_CobbleStone_Smooth_Mat_Auto1.uasset'
+[2021.11.06-17.38.06:900][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_CobbleStone_Rough_Mat] ([1] browsable assets)...
+[2021.11.06-17.38.06:932][919]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_CobbleStone_Rough_Mat.T_CobbleStone_Rough_Mat]
+[2021.11.06-17.38.06:932][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_CobbleStone_Rough_Mat]
+[2021.11.06-17.38.06:960][919]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/T_CobbleStone_Rough_Mat_Auto147A5BFF4412C9AEF3E1641ADD06B7DDA.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/Autosaves/Game/StarterContent/Textures/T_CobbleStone_Rough_Mat_Auto1.uasset'
+[2021.11.06-17.38.06:962][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Brick_Clay_New_M_Mat] ([1] browsable assets)...
+[2021.11.06-17.38.06:996][919]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Brick_Clay_New_M_Mat.T_Brick_Clay_New_M_Mat]
+[2021.11.06-17.38.06:996][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Brick_Clay_New_M_Mat]
+[2021.11.06-17.38.07:003][919]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/T_Brick_Clay_New_M_Mat_Auto1D21122D14A50ABE4CEDF0C8BF9AC9492.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/Autosaves/Game/StarterContent/Textures/T_Brick_Clay_New_M_Mat_Auto1.uasset'
+[2021.11.06-17.38.07:005][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Ceramic_Tile_M_Mat] ([1] browsable assets)...
+[2021.11.06-17.38.07:037][919]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Ceramic_Tile_M_Mat.T_Ceramic_Tile_M_Mat]
+[2021.11.06-17.38.07:037][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Ceramic_Tile_M_Mat]
+[2021.11.06-17.38.07:043][919]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/T_Ceramic_Tile_M_Mat_Auto1DFFC0BFB40FD433556A8E98C5DBF73E1.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/Autosaves/Game/StarterContent/Textures/T_Ceramic_Tile_M_Mat_Auto1.uasset'
+[2021.11.06-17.38.07:045][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Concrete_Panels_Mat] ([1] browsable assets)...
+[2021.11.06-17.38.07:078][919]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Concrete_Panels_Mat.T_Concrete_Panels_Mat]
+[2021.11.06-17.38.07:078][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Concrete_Panels_Mat]
+[2021.11.06-17.38.07:085][919]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/T_Concrete_Panels_Mat_Auto1F6C95D48402B8DB0E7D71E945C62DC02.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/Autosaves/Game/StarterContent/Textures/T_Concrete_Panels_Mat_Auto1.uasset'
+[2021.11.06-17.38.07:087][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Concrete_Grime_Mat] ([1] browsable assets)...
+[2021.11.06-17.38.07:119][919]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Concrete_Grime_Mat.T_Concrete_Grime_Mat]
+[2021.11.06-17.38.07:119][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Concrete_Grime_Mat]
+[2021.11.06-17.38.07:126][919]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/T_Concrete_Grime_Mat_Auto15FA310AB4E0C7385FB986AB518EC656C.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/Autosaves/Game/StarterContent/Textures/T_Concrete_Grime_Mat_Auto1.uasset'
+[2021.11.06-17.38.07:128][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Frame_M_Mat] ([1] browsable assets)...
+[2021.11.06-17.38.07:160][919]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Frame_M_Mat.T_Frame_M_Mat]
+[2021.11.06-17.38.07:161][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Frame_M_Mat]
+[2021.11.06-17.38.07:169][919]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/T_Frame_M_Mat_Auto1F6B661B247B461C0403C31BFD438F6B8.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/Autosaves/Game/StarterContent/Textures/T_Frame_M_Mat_Auto1.uasset'
+[2021.11.06-17.38.07:170][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Door_Mat] ([1] browsable assets)...
+[2021.11.06-17.38.07:203][919]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Door_Mat.T_Door_Mat]
+[2021.11.06-17.38.07:203][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Door_Mat]
+[2021.11.06-17.38.07:209][919]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/T_Door_Mat_Auto197B4DB704A1803C83E4AAC9A8CC273B0.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/Autosaves/Game/StarterContent/Textures/T_Door_Mat_Auto1.uasset'
+[2021.11.06-17.38.07:211][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Ground_Moss_Mat] ([1] browsable assets)...
+[2021.11.06-17.38.07:244][919]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Ground_Moss_Mat.T_Ground_Moss_Mat]
+[2021.11.06-17.38.07:244][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Ground_Moss_Mat]
+[2021.11.06-17.38.07:252][919]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/T_Ground_Moss_Mat_Auto167FDBB4147648AEC70F9529D974DAD8A.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/Autosaves/Game/StarterContent/Textures/T_Ground_Moss_Mat_Auto1.uasset'
+[2021.11.06-17.38.07:254][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Rock_Marble_Polished_Mat] ([1] browsable assets)...
+[2021.11.06-17.38.07:286][919]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Rock_Marble_Polished_Mat.T_Rock_Marble_Polished_Mat]
+[2021.11.06-17.38.07:286][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Rock_Marble_Polished_Mat]
+[2021.11.06-17.38.07:291][919]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/T_Rock_Marble_Polished_Mat_Auto172DA8C7B492DFA688985E09C01CD78F2.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/Autosaves/Game/StarterContent/Textures/T_Rock_Marble_Polished_Mat_Auto1.uasset'
+[2021.11.06-17.38.07:293][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Single_Tile_Mat] ([1] browsable assets)...
+[2021.11.06-17.38.07:325][919]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Single_Tile_Mat.T_Single_Tile_Mat]
+[2021.11.06-17.38.07:325][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Single_Tile_Mat]
+[2021.11.06-17.38.07:332][919]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/T_Single_Tile_Mat_Auto181BD8C0E4766A330DF9C2F9693C54074.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/Autosaves/Game/StarterContent/Textures/T_Single_Tile_Mat_Auto1.uasset'
+[2021.11.06-17.38.07:334][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Tech_Panel_Mat] ([1] browsable assets)...
+[2021.11.06-17.38.07:366][919]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Tech_Panel_Mat.T_Tech_Panel_Mat]
+[2021.11.06-17.38.07:366][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Tech_Panel_Mat]
+[2021.11.06-17.38.07:373][919]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/T_Tech_Panel_Mat_Auto151B73A24413BD21B040F76A06939E471.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/Autosaves/Game/StarterContent/Textures/T_Tech_Panel_Mat_Auto1.uasset'
+[2021.11.06-17.38.07:375][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Brick_Clay_Beveled_M_Mat] ([1] browsable assets)...
+[2021.11.06-17.38.07:410][919]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Brick_Clay_Beveled_M_Mat.T_Brick_Clay_Beveled_M_Mat]
+[2021.11.06-17.38.07:410][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Brick_Clay_Beveled_M_Mat]
+[2021.11.06-17.38.07:417][919]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/T_Brick_Clay_Beveled_M_Mat_Auto1B743D1C2487E86809DAD0C92863DE52B.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/Autosaves/Game/StarterContent/Textures/T_Brick_Clay_Beveled_M_Mat_Auto1.uasset'
+[2021.11.06-17.38.07:419][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Concrete_Poured_Mat] ([1] browsable assets)...
+[2021.11.06-17.38.07:451][919]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Concrete_Poured_Mat.T_Concrete_Poured_Mat]
+[2021.11.06-17.38.07:451][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Concrete_Poured_Mat]
+[2021.11.06-17.38.07:458][919]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/T_Concrete_Poured_Mat_Auto16AFAF5094A44F8A4762AF698DF8BB73A.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/Autosaves/Game/StarterContent/Textures/T_Concrete_Poured_Mat_Auto1.uasset'
+[2021.11.06-17.38.07:459][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Rock_Slate_Mat] ([1] browsable assets)...
+[2021.11.06-17.38.07:492][919]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Rock_Slate_Mat.T_Rock_Slate_Mat]
+[2021.11.06-17.38.07:492][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Rock_Slate_Mat]
+[2021.11.06-17.38.07:499][919]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/T_Rock_Slate_Mat_Auto12D1A602E4456A93BA620899103F4FA95.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/Autosaves/Game/StarterContent/Textures/T_Rock_Slate_Mat_Auto1.uasset'
+[2021.11.06-17.38.07:500][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Brick_Clay_Beveled_Mat] ([1] browsable assets)...
+[2021.11.06-17.38.07:531][919]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Brick_Clay_Beveled_Mat.T_Brick_Clay_Beveled_Mat]
+[2021.11.06-17.38.07:531][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Brick_Clay_Beveled_Mat]
+[2021.11.06-17.38.07:538][919]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/T_Brick_Clay_Beveled_Mat_Auto177EAFAA143272215FC7B729452947FED.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/Autosaves/Game/StarterContent/Textures/T_Brick_Clay_Beveled_Mat_Auto1.uasset'
+[2021.11.06-17.38.07:540][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_CobbleStone_Pebble_M_Mat] ([1] browsable assets)...
+[2021.11.06-17.38.07:572][919]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_CobbleStone_Pebble_M_Mat.T_CobbleStone_Pebble_M_Mat]
+[2021.11.06-17.38.07:572][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_CobbleStone_Pebble_M_Mat]
+[2021.11.06-17.38.07:580][919]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/T_CobbleStone_Pebble_M_Mat_Auto1FCAC3EC640B4D3080DF6D384E39452A6.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/Autosaves/Game/StarterContent/Textures/T_CobbleStone_Pebble_M_Mat_Auto1.uasset'
+[2021.11.06-17.38.07:581][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Perlin_Noise_M_Mat] ([1] browsable assets)...
+[2021.11.06-17.38.07:615][919]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Perlin_Noise_M_Mat.T_Perlin_Noise_M_Mat]
+[2021.11.06-17.38.07:615][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Perlin_Noise_M_Mat]
+[2021.11.06-17.38.07:622][919]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/T_Perlin_Noise_M_Mat_Auto1A753FABA4FD67F4798B55E9B0B4F9CD5.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/Autosaves/Game/StarterContent/Textures/T_Perlin_Noise_M_Mat_Auto1.uasset'
+[2021.11.06-17.38.07:623][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Smoke_Tiled_Mat] ([1] browsable assets)...
+[2021.11.06-17.38.07:656][919]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Smoke_Tiled_Mat.T_Smoke_Tiled_Mat]
+[2021.11.06-17.38.07:656][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Smoke_Tiled_Mat]
+[2021.11.06-17.38.07:662][919]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/T_Smoke_Tiled_Mat_Auto185F83F6F43E3C35289A7F0888957DC2F.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/Autosaves/Game/StarterContent/Textures/T_Smoke_Tiled_Mat_Auto1.uasset'
+[2021.11.06-17.38.07:664][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Tech_Hex_Tile_Mat] ([1] browsable assets)...
+[2021.11.06-17.38.07:695][919]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Tech_Hex_Tile_Mat.T_Tech_Hex_Tile_Mat]
+[2021.11.06-17.38.07:695][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Tech_Hex_Tile_Mat]
+[2021.11.06-17.38.07:701][919]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/T_Tech_Hex_Tile_Mat_Auto17406DD73413D6833DCDBAC941BDCE389.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/Autosaves/Game/StarterContent/Textures/T_Tech_Hex_Tile_Mat_Auto1.uasset'
+[2021.11.06-17.38.07:702][919]LogFileHelpers: Auto-saving content packages took 1.580
+[2021.11.06-17.38.21:123][256]LogActorFactory: Actor Factory created SM_Door
+[2021.11.06-17.38.25:238][347]LogActorFactory: Actor Factory created SM_Door
+[2021.11.06-17.38.52:469][770]LogActorFactory: Actor Factory created SM_DoorFrame
+[2021.11.06-17.38.54:706][808]LogActorFactory: Actor Factory created SM_DoorFrame
+[2021.11.06-17.39.02:947][963]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2021.11.06-17.39.07:623][ 49]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame)
+[2021.11.06-17.39.40:782][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2021.11.06-17.39.49:934][821]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame)
+[2021.11.06-17.40.25:782][520]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2021.11.06-17.41.16:201][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x400)
+[2021.11.06-17.41.22:440][335]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2021.11.06-17.41.59:891][956]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2021.11.06-17.42.00:381][965]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x402)
+[2021.11.06-17.42.08:053][113]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2021.11.06-17.42.21:238][312]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x400)
+[2021.11.06-17.42.28:221][452]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow)
+[2021.11.06-17.42.36:658][550]LogActorFactory: Actor Factory created SM_WindowFrame
+[2021.11.06-17.42.40:624][636]LogActorFactory: Actor Factory created SM_WindowFrame
+[2021.11.06-17.42.56:519][928]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x402)
+[2021.11.06-17.43.05:801][107]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame)
+[2021.11.06-17.43.07:179][134]Cmd: EDIT COPY
+[2021.11.06-17.43.07:972][150]Cmd: EDIT PASTE
+[2021.11.06-17.43.19:915][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame2)
