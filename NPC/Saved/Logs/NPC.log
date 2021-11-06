@@ -1091,3 +1091,69 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.06-15.59.30:638][190]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/ThirdPersonExampleMapB72A5AC3482E7727499E079BDAC4EC80.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2021.11.06-15.59.30:663][190]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2021.11.06-15.59.30:664][190]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.06-16.00.07:516][680]LogActorFactory: Actor Factory created Floor_400x400
+[2021.11.06-16.00.10:652][758]LogActorFactory: Actor Factory created Floor_400x400
+[2021.11.06-16.00.31:436][340]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.11.06-16.00.33:076][377]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x401)
+[2021.11.06-16.00.56:792][968]LogActorFactory: Actor Factory created Pillar_50x500
+[2021.11.06-16.01.00:224][ 76]LogActorFactory: Actor Factory created Pillar_50x500
+[2021.11.06-16.01.28:082][610]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x401)
+[2021.11.06-16.01.44:151][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.11.06-16.01.44:197][ 11]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/ThirdPersonExampleMap28D0AD5B4CCC8A088D143AAEDBFD681E.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.11.06-16.01.44:228][ 11]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.11.06-16.01.44:228][ 11]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.06-16.01.51:373][190]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x401)
+[2021.11.06-16.02.12:203][723]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_50x500)
+[2021.11.06-16.02.15:715][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x401)
+[2021.11.06-16.02.28:131][118]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.11.06-16.02.31:412][194]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x401)
+[2021.11.06-16.02.36:377][317]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_50x500)
+[2021.11.06-16.02.42:916][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x401)
+[2021.11.06-16.03.21:806][436]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_50x500)
+[2021.11.06-16.03.52:785][ 77]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x400)
+[2021.11.06-16.03.54:255][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_50x500)
+[2021.11.06-16.03.55:603][149]Cmd: EDIT COPY
+[2021.11.06-16.03.56:529][173]Cmd: EDIT PASTE
+[2021.11.06-16.04.23:822][911]Cmd: EDIT COPY
+[2021.11.06-16.04.25:054][943]Cmd: EDIT PASTE
+[2021.11.06-16.04.34:254][191]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_50x500)
+[2021.11.06-16.04.40:998][363]Cmd: EDIT COPY
+[2021.11.06-16.04.41:705][381]Cmd: EDIT PASTE
+[2021.11.06-16.04.48:316][572]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_50x502)
+[2021.11.06-16.04.57:225][814]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_50x503)
+[2021.11.06-16.05.00:957][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2021.11.06-16.05.20:178][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2021.11.06-16.05.44:746][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.11.06-16.05.49:059][ 81]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2021.11.06-16.05.56:726][264]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.11.06-16.06.05:923][485]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2021.11.06-16.07.49:938][698]LogActorFactory: Actor Factory created Shape_Wedge_A
+[2021.11.06-16.07.51:377][737]LogActorFactory: Actor Factory created Shape_Wedge_A
+[2021.11.06-16.08.44:833][729]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 0
+[2021.11.06-16.08.58:453][  9]Cmd: DELETE
+[2021.11.06-16.08.58:453][  9]Cmd: ACTOR DELETE
+[2021.11.06-16.08.58:460][  9]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.06-16.08.58:502][  9]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.11.06-16.08.58:506][  9]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2021.11.06-16.09.00:643][ 53]LogActorFactory: Actor Factory created Shape_Wedge_B
+[2021.11.06-16.09.02:447][110]LogActorFactory: Actor Factory created Shape_Wedge_B
+[2021.11.06-16.11.44:076][542]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x406)
+[2021.11.06-16.11.45:171][568]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Wedge_B)
+[2021.11.06-16.11.54:098][802]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Wedge_B)
+[2021.11.06-16.13.04:632][119]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-16.13.05:542][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Wedge_B)
+[2021.11.06-16.13.24:541][584]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Wedge_B)
+[2021.11.06-16.14.06:596][626]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x403)
+[2021.11.06-16.14.07:784][656]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Wedge_B)
+[2021.11.06-16.15.27:983][728]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Wedge_B)
+[2021.11.06-16.15.29:141][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.11.06-16.15.34:395][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Wedge_B)
+[2021.11.06-16.15.36:464][940]Cmd: EDIT COPY
+[2021.11.06-16.15.37:860][975]Cmd: EDIT PASTE
+[2021.11.06-16.16.35:918][537]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x401)
+[2021.11.06-16.16.37:081][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Wedge_B2)
+[2021.11.06-16.16.45:117][765]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-16.16.50:307][893]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.11.06-16.16.50:361][893]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/ThirdPersonExampleMap72D3BAD745F90577E0CCB5A4418F1AB2.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.11.06-16.16.50:397][893]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.11.06-16.16.50:397][893]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
