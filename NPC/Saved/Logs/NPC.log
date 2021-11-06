@@ -1871,3 +1871,40 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.06-20.02.48:296][429]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/ThirdPersonExampleMap38F575A44B76AC65F875BEBAD4CC08D8.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2021.11.06-20.02.48:315][429]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2021.11.06-20.02.48:315][429]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.06-20.03.30:947][667]LogStaticMesh: Building static mesh SM_Rock...
+[2021.11.06-20.03.31:413][667]LogStaticMesh: Built static mesh [0.47s] /Game/StarterContent/Props/SM_Rock.SM_Rock
+[2021.11.06-20.03.31:462][667]LogActorFactory: Actor Factory created SM_Rock
+[2021.11.06-20.03.35:489][697]LogActorFactory: Actor Factory created SM_Rock
+[2021.11.06-20.03.47:855][790]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-20.03.57:483][842]LogActorFactory: Actor Factory created SM_Rock
+[2021.11.06-20.03.59:097][855]LogActorFactory: Actor Factory created SM_Rock
+[2021.11.06-20.04.06:470][926]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Spruce_05)
+[2021.11.06-20.04.09:145][942]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-20.04.20:055][996]LogActorFactory: Actor Factory created SM_Rock
+[2021.11.06-20.04.25:612][ 47]LogActorFactory: Actor Factory created SM_Rock
+[2021.11.06-20.04.31:397][112]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-20.04.45:310][186]LogActorFactory: Actor Factory created SM_Rock
+[2021.11.06-20.04.47:044][200]LogActorFactory: Actor Factory created SM_Rock
+[2021.11.06-20.04.54:226][290]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-20.05.15:756][393]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Lamp_Ceiling)
+[2021.11.06-20.05.17:393][403]Cmd: DELETE
+[2021.11.06-20.05.17:393][403]Cmd: ACTOR DELETE
+[2021.11.06-20.05.17:410][403]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.06-20.05.17:889][403]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2021.11.06-20.05.17:897][403]LogEditorActor: Deleted 1 Actors (0.504 secs)
+[2021.11.06-20.05.52:708][892]LogActorFactory: Actor Factory created SM_CornerFrame
+[2021.11.06-20.05.56:429][914]LogActorFactory: Actor Factory created SM_CornerFrame
+[2021.11.06-20.06.11:718][ 32]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.11.06-20.06.14:058][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x400)
+[2021.11.06-20.06.30:925][142]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CornerFrame)
+[2021.11.06-20.06.39:586][192]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2021.11.06-20.06.45:032][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CornerFrame)
+[2021.11.06-20.06.50:822][261]Cmd: DELETE
+[2021.11.06-20.06.50:822][261]Cmd: ACTOR DELETE
+[2021.11.06-20.06.50:840][261]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.06-20.06.51:106][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.11.06-20.06.51:111][261]LogEditorActor: Deleted 1 Actors (0.289 secs)
+[2021.11.06-20.06.57:073][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.11.06-20.06.57:152][295]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/ThirdPersonExampleMapE1F5F80640DADCA4428DEFBF6FC8E0E3.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.11.06-20.06.57:181][295]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.11.06-20.06.57:181][295]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
