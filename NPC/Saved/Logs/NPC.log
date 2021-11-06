@@ -1041,3 +1041,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.06-15.36.58:970][823]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/ThirdPersonExampleMap381B404F4A8F7E733C38ECA79F322CF9.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2021.11.06-15.36.58:998][823]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2021.11.06-15.36.58:998][823]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.06-15.37.44:405][306]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.06-15.37.46:138][329]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2021.11.06-15.37.46:284][329]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Saved/ThirdPersonExampleMap9912DCD04B9DDA203FAE80B8AC110806.tmp' to '../../../../../../Users/Owner/Documents/GitHub/225-NPC/NPC/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.11.06-15.37.46:399][329]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.11.06-15.37.46:399][329]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
